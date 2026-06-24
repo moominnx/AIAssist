@@ -1,0 +1,1395 @@
+{
+  "program_info": {
+    "name_th": "วิทยาศาสตรบัณฑิต สาขาวิชาวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ",
+    "name_en": "Bachelor of Science Program in Data Science and Business Analytics",
+    "degree_th": "วท.บ. (วิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ)",
+    "degree_en": "B.Sc. (Data Science and Business Analytics)",
+    "major_th": "วิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ",
+    "major_en": "Data Science and Business Analytics",
+    "total_credits": 132,
+    "program_type": "ปริญญาตรี",
+    "duration_years": 4,
+    "curriculum_year": 2564,
+    "institution": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+    "faculty": "คณะเทคโนโลยีสารสนเทศ"
+  },
+  "curriculum_structure": {
+    "general_education": {
+      "credits": 30,
+      "subcategories": [
+        "กลุ่มวิชาพื้นฐาน",
+        "กลุ่มวิชาด้านภาษาและการสื่อสาร",
+        "กลุ่มวิชาตามเกณฑ์ของคณะ",
+        "กลุ่มวิชาเลือกหมวดวิชาการศึกษาทั่วไป"
+      ]
+    },
+    "specific_courses": {
+      "credits": 96,
+      "subcategories": [
+        "กลุ่มวิชาแกน (45 หน่วยกิต)",
+        "กลุ่มพื้นฐานวิชาชีพ (33 หน่วยกิต)",
+        "กลุ่มวิชาชีพเฉพาะด้าน (12 หน่วยกิต)",
+        "กลุ่มวิชาการศึกษาทางเลือก (6 หน่วยกิต)"
+      ]
+    },
+    "elective_courses": {
+      "credits": 6,
+      "description": "นักศึกษาเลือกลงทะเบียนเรียนวิชาในกลุ่มวิชาเลือก หรือกลุ่มวิชาชีพเฉพาะด้าน กลุ่มใดก็ได้ จำนวนรวม 6 หน่วยกิต"
+    },
+    "free_electives": {
+      "credits": 6,
+      "description": "นักศึกษาสามารถเลือกเรียนในรายวิชาที่เปิดสอนในสถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง จำนวนไม่น้อยกว่า 6 หน่วยกิต"
+    }
+  },
+  "courses": [
+    {
+      "code": "06026200",
+      "name_th": "แคลคูลัส 1",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026201",
+      "name_th": "แคลคูลัส 2",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [
+        {
+          "code": "06026200",
+          "name_th": "แคลคูลัส 1",
+          "name_en": "CALCULUS 1 331"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06026202",
+      "name_th": "พีชคณิตเชิงเส้น",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026203",
+      "name_th": "การโปรแกรมคอมพิวเตอร์",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026204",
+      "name_th": "เครือข่ายและความมั่นคงทางไซเบอร์เบื้องต้น",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026205",
+      "name_th": "การตลาดเบื้อง",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026206",
+      "name_th": "การวิเคราะห์ข้อมูลและการโปรแกรม",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026207",
+      "name_th": "ระบบฐานข้อมูลแบบโนเอสคิวแอล",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026208",
+      "name_th": "พื้นฐานวิทยาการข้อมูล",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026209",
+      "name_th": "การแสดงข้อมูลด้วยแผนภาพ",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026210",
+      "name_th": "การหาค่าเหมาะที่สุด",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026211",
+      "name_th": "การเรียนรู้ของเครื่องเชิงประยุกต์",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026212",
+      "name_th": "การสร้างคลังข้อมูล",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [
+        {
+          "code": "06066300",
+          "name_th": "แนวคิดระบบฐานข้อมูล",
+          "name_en": "DATABASE SYSTEM CONCEPTS"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06026213",
+      "name_th": "ระบบข้อมูลมหัต",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [
+        {
+          "code": "06066300",
+          "name_th": "แนวคิดระบบฐานข้อมูล",
+          "name_en": "DATABASE SYSTEM CONCEPTS"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06026214",
+      "name_th": "โครงงานวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ 1",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026215",
+      "name_th": "โครงงานวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ 2",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [
+        {
+          "code": "06026214",
+          "name_th": "โครงงานวิทยาการข้อมูล",
+          "name_en": "PROJECT IN DATA SCIENCE"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06026216",
+      "name_th": "ปัญญาประดิษฐ์",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026217",
+      "name_th": "การเรียนรู้ของเครื่อง",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026218",
+      "name_th": "การเรียนรู้เชิงลึก",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026219",
+      "name_th": "การประมวลผลภาษาธรรมชาติ",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026220",
+      "name_th": "การทำเหมืองข้อมูลกระบวนการ",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026221",
+      "name_th": "การค้นคืนสารสนเทศ",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026222",
+      "name_th": "คอมพิวเตอร์วิชัน",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026223",
+      "name_th": "การประมวลผลภาพ",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026224",
+      "name_th": "การแปลงข้อมูลและการรู้จำรูปภาพ",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026225",
+      "name_th": "การเรียนรู้เชิงลึกสำหรับการวิเคราะห์ภาพและวีดิโอทางการแพทย์",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026226",
+      "name_th": "หัวข้อพิเศษทางวิทยาการข้อมูล 1",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026227",
+      "name_th": "หัวข้อพิเศษทางวิทยาการข้อมูล 2",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026228",
+      "name_th": "ปฏิบัติการพิเศษทางวิทยาการข้อมูล 1",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026229",
+      "name_th": "ปฏิบัติการพิเศษทางวิทยาการข้อมูล 2",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026230",
+      "name_th": "อนุกรมเวลาและการพยากรณ์เบื้องต้น",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026231",
+      "name_th": "สถิติเชิงเบย์",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026232",
+      "name_th": "กระบวนการสโตแคสติกเบื้องต้น",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026233",
+      "name_th": "การวิเคราะห์ข้อมูลหลายตัวแปร",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026234",
+      "name_th": "การออกแบบการทดลอง",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026235",
+      "name_th": "หัวข้อพิเศษทางการวิเคราะห์เชิงสถิติ 1",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026236",
+      "name_th": "หัวข้อพิเศษทางการวิเคราะห์เชิงสถิติ 2",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026237",
+      "name_th": "ปฏิบัติการพิเศษทางการวิเคราะห์เชิงสถิติ 1",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026238",
+      "name_th": "ปฏิบัติการพิเศษทางการวิเคราะห์เชิงสถิติ 2",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026239",
+      "name_th": "สถาปัตยกรรมข้อมูลแบบไปป์ไลน์",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026240",
+      "name_th": "การพัฒนาระบบอัจฉริยะ",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026241",
+      "name_th": "การดำเนินงานการเรียนรู้ของเครื่อง",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026242",
+      "name_th": "โครงสร้างพื้นฐานด้านเทคโนโลยีกลุ่มเมฆ",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026243",
+      "name_th": "ระบบฐานข้อมูลขั้นสูง",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026244",
+      "name_th": "การดูแลและบำรุงรักษาระบบฐานข้อมูล",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026245",
+      "name_th": "ระบบฐานข้อมูลแบบกระจาย",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026246",
+      "name_th": "หัวข้อพิเศษทางวิศวกรรมข้อมูล 1",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026247",
+      "name_th": "หัวข้อพิเศษทางวิศวกรรมข้อมูล 2",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026248",
+      "name_th": "ปฏิบัติการพิเศษทางวิศวกรรมข้อมูล 1",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026249",
+      "name_th": "ปฏิบัติการพิเศษทางวิศวกรรมข้อมูล 2",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026250",
+      "name_th": "วิทยาการข้อมูลสำหรับธุรกิจ",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026251",
+      "name_th": "บัญชีการเงิน",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026252",
+      "name_th": "การวิเคราะห์ด้านการเงิน",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026253",
+      "name_th": "การวิเคราะห์ด้านการตลาด",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026254",
+      "name_th": "เทคโนโลยีสุขภาพสนเทศศาสตร์เบื้องต้น",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026255",
+      "name_th": "การได้มาและการจัดการข้อมูลทางด้านคลินิก",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026256",
+      "name_th": "การจัดการการปฏิบัติการ",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026257",
+      "name_th": "การบริหารเชิงกลยุทธ์และสมรรถะของธุรกิจ",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026258",
+      "name_th": "การวิเคราะห์เครือข่ายสังคม",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026259",
+      "name_th": "สหกิจศึกษาทางวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026260",
+      "name_th": "สหกิจศึกษาต่างประเทศทางวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066000",
+      "name_th": "คณิตศาสตร์ไม่ต่อเนื่อง",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066001",
+      "name_th": "ความน่าจะเป็นและสถิติ",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066100",
+      "name_th": "การบริหารโครงการเทคโนโลยีสารสนเทศ",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066101",
+      "name_th": "พื้นฐานทางธุรกิจสำหรับเทคโนโลยีสารสนเทศ",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066102",
+      "name_th": "ระบบสารสนเทศเพื่อการจัดการ",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [
+        {
+          "code": "06066101",
+          "name_th": "พื้นฐานทางธุรกิจสําหรับเทคโนโลยีสารสนเทศ",
+          "name_en": "BUSINESS FUNDAMENTALS FOR INFORMATION TECHNOLOGY"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06066300",
+      "name_th": "แนวคิดระบบฐานข้อมูล",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066301",
+      "name_th": "โครงสร้างข้อมูลและอัลกอริทึม",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066302",
+      "name_th": "การเขียนโปรแกรมเว็บพื้นฐาน",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066303",
+      "name_th": "การแก้ปัญหาและการโปรแกรมคอมพิวเตอร์",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066304",
+      "name_th": "การวิเคราะห์และออกแบบระบบสารสนเทศ",
+      "name_en": null,
+      "credits": null,
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "6066100",
+      "name_th": "การบริหารโครงการเทคโนโลยีสารสนเทศ",
+      "name_en": "INFORMATION TECHNOLOGY PROJECT MANAGEMENT",
+      "credits": "3(3-0-6)",
+      "category": "กลุ่มวิชาแกน - กลุ่มพื้นฐานเทคโนโลยีสารสนเทศ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90641001",
+      "name_th": "โรงเรียนสร้างเสน่ห์",
+      "name_en": "CHARM SCHOOL",
+      "credits": "2 (1-2-3)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90641003",
+      "name_th": "กีฬาและนันทนาการ",
+      "name_en": "SPORTS AND RECREATIONAL ACTIVITIES",
+      "credits": "1 (0-3-2)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90644007",
+      "name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "name_en": "FOUNDATION ENGLISH 1",
+      "credits": "3 (3-0-6)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90641002",
+      "name_th": "ความฉลาดทางดิจิทัล",
+      "name_en": "DIGITAL INTELLIGENCE QUOTIENT",
+      "credits": "3 (3-0-6)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90642033",
+      "name_th": "กฎหมายสำหรับคนรุ่นใหม่",
+      "name_en": "LAW FOR NEW GENERATION",
+      "credits": "3 (3-0-6)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90644008",
+      "name_th": "ภาษาอังกฤษพื้นฐาน 2",
+      "name_en": "FOUNDATION ENGLISH 2",
+      "credits": "3 (3-0-6)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90644xxx",
+      "name_th": "วิชาเลือกด้านภาษาและการสื่อสาร",
+      "name_en": "ELECTIVE IN LANGUAGE AND COMMUNICATION",
+      "credits": "3 (3-0-6) หรือ 3 (2-2-5)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "เลือก",
+      "year": 2,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06026xxx",
+      "name_th": "วิชาเลือกกลุ่มวิทยาการข้อมูล 1",
+      "name_en": "ELECTIVE IN DATA SCIENCE 1",
+      "credits": "3 (3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": 3,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "9064xxxx",
+      "name_th": "วิชาเลือกหมวดวิชาศึกษาทั่วไป",
+      "name_en": "ELECTIVE IN GENERAL EDUCATION",
+      "credits": "3 (3-0-6) หรือ 3 (2-2-5)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "เลือก",
+      "year": 3,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90644042",
+      "name_th": "การสื่อสารและการนำเสนออย่างมืออาชีพ",
+      "name_en": "PROFESSIONAL COMMUNICATION AND PRESENTATION",
+      "credits": "3 (3-0-6)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 3,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90643021",
+      "name_th": "ผู้ประกอบการสมัยใหม่",
+      "name_en": "MODERN ENTREPRENEURS",
+      "credits": "3 (3-0-6)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 3,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "xxxxxxxx",
+      "name_th": "วิชาเลือกเสรี 1",
+      "name_en": "FREE ELECTIVE COURSE 1",
+      "credits": "3 (3-0-6) หรือ 3 (2-2-5)",
+      "category": "วิชาเลือกเสรี",
+      "type": "เลือก",
+      "year": 4,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    }
+  ],
+  "academic_plan": [
+    {
+      "year": 1,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "06026200",
+          "name_th": "แคลคูลัส 1",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06026202",
+          "name_th": "พีชคณิตเชิงเส้น",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06066101",
+          "name_th": "พื้นฐานทางธุรกิจสำหรับเทคโนโลยีสารสนเทศ",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06066303",
+          "name_th": "การแก้ปัญหาและการโปรแกรมคอมพิวเตอร์",
+          "credits": "3 (2-2-5)"
+        },
+        {
+          "code": "90641001",
+          "name_th": "โรงเรียนสร้างเสน่ห์",
+          "credits": "2 (1-2-3)"
+        },
+        {
+          "code": "90641003",
+          "name_th": "กีฬาและนันทนาการ",
+          "credits": "1 (0-3-2)"
+        },
+        {
+          "code": "90644007",
+          "name_th": "ภาษาอังกฤษพื้นฐาน 1",
+          "credits": "3 (3-0-6)"
+        }
+      ],
+      "total_credits": 18
+    },
+    {
+      "year": 1,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "06026201",
+          "name_th": "แคลคูลัส 2",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06026203",
+          "name_th": "การโปรแกรมคอมพิวเตอร์",
+          "credits": "3 (2-2-5)"
+        },
+        {
+          "code": "06026205",
+          "name_th": "การตลาดเบื้องต้น",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06066001",
+          "name_th": "ความน่าจะเป็นและสถิติ",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "90641002",
+          "name_th": "ความฉลาดทางดิจิทัล",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "90642033",
+          "name_th": "กฎหมายสำหรับคนรุ่นใหม่",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "90644008",
+          "name_th": "ภาษาอังกฤษพื้นฐาน 2",
+          "credits": "3 (3-0-6)"
+        }
+      ],
+      "total_credits": 21
+    },
+    {
+      "year": 2,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "06026206",
+          "name_th": "การวิเคราะห์ข้อมูลและการโปรแกรม",
+          "credits": "3 (2-2-5)"
+        },
+        {
+          "code": "06066000",
+          "name_th": "คณิตศาสตร์ไม่ต่อเนื่อง",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06066300",
+          "name_th": "แนวคิดระบบฐานข้อมูล",
+          "credits": "3 (2-2-5)"
+        },
+        {
+          "code": "06066302",
+          "name_th": "การเขียนโปรแกรมเว็บพื้นฐาน",
+          "credits": "3 (2-2-5)"
+        },
+        {
+          "code": "06066304",
+          "name_th": "การวิเคราะห์และออกแบบระบบสารสนเทศ",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "90644xxx",
+          "name_th": "วิชาเลือกด้านภาษาและการสื่อสาร",
+          "credits": "3 (3-0-6) หรือ 3 (2-2-5)"
+        }
+      ],
+      "total_credits": 18
+    },
+    {
+      "year": 2,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "06026204",
+          "name_th": "เครือข่ายและความมั่นคงทางไซเบอร์เบื้องต้น",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06026207",
+          "name_th": "ระบบฐานข้อมูลแบบโนเอสคิวแอล",
+          "credits": "3 (2-2-5)"
+        },
+        {
+          "code": "06026208",
+          "name_th": "พื้นฐานวิทยาการข้อมูล",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06026209",
+          "name_th": "การแสดงข้อมูลด้วยแผนภาพ",
+          "credits": "3 (2-2-5)"
+        },
+        {
+          "code": "06026210",
+          "name_th": "การหาค่าที่เหมาะที่สุด",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06066102",
+          "name_th": "ระบบสารสนเทศเพื่อการจัดการ",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06066301",
+          "name_th": "โครงสร้างข้อมูลและอัลกอริทึม",
+          "credits": "3 (2-2-5)"
+        }
+      ],
+      "total_credits": 21
+    },
+    {
+      "year": 3,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "06026211",
+          "name_th": "การเรียนรู้ของเครื่องเชิงประยุกต์",
+          "credits": "3 (2-2-5)"
+        },
+        {
+          "code": "06026212",
+          "name_th": "การสร้างคลังข้อมูล",
+          "credits": "3 (2-2-5)"
+        },
+        {
+          "code": "06026xxx",
+          "name_th": "วิชาเลือกกลุ่มวิทยาการข้อมูล 1",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06026xxx",
+          "name_th": "วิชาเลือกกลุ่มวิทยาการข้อมูล 2",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "9064xxxx",
+          "name_th": "วิชาเลือกหมวดวิชาศึกษาทั่วไป",
+          "credits": "3 (3-0-6) หรือ 3 (2-2-5)"
+        },
+        {
+          "code": "90644042",
+          "name_th": "การสื่อสารและการนำเสนออย่างมืออาชีพ",
+          "credits": "3 (3-0-6)"
+        }
+      ],
+      "total_credits": 18
+    },
+    {
+      "year": 3,
+      "semester": 2,
+      "courses": [
+        {
+          "code": null,
+          "name_th": "โครงงานวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ 1",
+          "credits": null
+        },
+        {
+          "code": "06026213",
+          "name_th": "ระบบข้อมูลมหัต",
+          "credits": "3 (2-2-5)"
+        },
+        {
+          "code": "06026214",
+          "name_th": "โครงงานวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ 1",
+          "credits": "3 (0-9-0)"
+        },
+        {
+          "code": "06026xxx",
+          "name_th": "วิชาเลือกกลุ่มวิทยาการข้อมูล 3",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06066100",
+          "name_th": "การบริหารโครงการเทคโนโลยีสารสนเทศ",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "90643021",
+          "name_th": "ผู้ประกอบการสมัยใหม่",
+          "credits": "3 (3-0-6)"
+        }
+      ],
+      "total_credits": 0
+    },
+    {
+      "year": 4,
+      "semester": 1,
+      "courses": [
+        {
+          "code": null,
+          "name_th": "โครงงานวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ 2",
+          "credits": null
+        },
+        {
+          "code": "06026215",
+          "name_th": "โครงงานวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ 2",
+          "credits": "3 (0-9-0)"
+        },
+        {
+          "code": "06026xxx",
+          "name_th": "วิชาเลือกในกลุ่มวิชาเลือกหรือกลุ่มวิชาชีพเฉพาะด้าน 1",
+          "credits": "3 (3-0-6) หรือ 3 (2-2-5)"
+        }
+      ],
+      "total_credits": 0
+    },
+    {
+      "year": 4,
+      "semester": 2,
+      "courses": [
+        {
+          "code": null,
+          "name_th": "สหกิจศึกษา",
+          "credits": null
+        },
+        {
+          "code": "9064xxxx",
+          "name_th": "วิชาเลือกหมวดวิชาศึกษาทั่วไป",
+          "credits": "3 (3-0-6) หรือ 3 (2-2-5)"
+        },
+        {
+          "code": "xxxxxxxx",
+          "name_th": "วิชาเลือกเสรี 1",
+          "credits": "3 (3-0-6) หรือ 3 (2-2-5)"
+        }
+      ],
+      "total_credits": 0
+    }
+  ],
+  "career_opportunities": [],
+  "program_outcomes": [
+    "สามารถอธิบายกระบวนการวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ",
+    "สามารถอธิบายอัลกอริทึมและเครื่องมือทางวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ",
+    "สามารถอธิบายการประเมินประสิทธิภาพของอัลกอริทึมทางวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ",
+    "สามารถอธิบายรูปแบบการนำเสนอผลลัพธ์ด้วยทฤษฎีทางวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ",
+    "สามารถรวบรวม ศึกษา วิเคราะห์และสรุปประเด็นปัญหาและความความต้องการ",
+    "สามารถเลือกใช้อัลกอริทึมและเครื่องมือทางวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจให้เหมาะสมกับปัญหา",
+    "สามารถประเมินประสิทธิภาพของอัลกอริทึมทางวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจที่ใช้ในการแก้ปัญหา",
+    "สามารถนำเสนอผลลัพธ์ของการแก้ปัญหาด้วยทฤษฎีทางวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจ",
+    "สามารถสืบค้น ตีความ และต่อยอดความรู้ด้านวิทยาการข้อมูลและการวิเคราะห์เชิงธุรกิจเพื่อใช้ในการแก้ปัญหาอย่างสร้างสรรค์",
+    "ตระหนักในคุณค่าและคุณธรรม จริยธรรม เสียสละ และซื่อสัตย์สุจริต",
+    "มีวินัย ตรงต่อเวลา และความรับผิดชอบต่อตนเอง วิชาชีพและสังคม",
+    "มีภาวะความเป็นผู้นำและผู้ตาม สามารถทำงานเป็นทีมและสามารถแก้ไขข้อขัดแย้งและลำดับความสำคัญ",
+    "เคารพสิทธิและรับฟังความคิดเห็นของผู้อื่น รวมทั้งเคารพในคุณค่าและศักดิ์ศรีของความเป็นมนุษย์",
+    "เคารพกฎระเบียบและข้อบังคับต่าง ๆ ขององค์กรและสังคม",
+    "สามารถสื่อสารทั้งภาษาไทยและภาษาต่างประเทศกับกลุ่มคนหลากหลายได้อย่างมีประสิทธิภาพ",
+    "สามารถให้ความช่วยเหลือและอำนวยความสะดวกในการแก้ปัญหาสถานการณ์ต่าง ๆ ทั้งในบทบาทของผู้นำ หรือในบทบาทของผู้ร่วมทีมทำงาน",
+    "สามารถใช้ความรู้ในศาสตร์มาชี้นำสังคมในประเด็นที่เหมาะสม",
+    "มีความรับผิดชอบในการกระทำของตนเองและรับผิดชอบงานในกลุ่ม",
+    "สามารถเป็นผู้ริเริ่มแสดงประเด็นในการแก้ไขสถานการณ์ทั้งส่วนตัวและส่วนรวม พร้อมทั้งแสดงจุดยืนอย่างพอเหมาะทั้งของตนเองและของกลุ่ม"
+  ],
+  "special_tracks": [
+    "กลุ่มวิทยาการข้อมูล",
+    "กลุ่มการวิเคราะห์เชิงสถิติ",
+    "กลุ่มวิศวกรรมข้อมูล"
+  ],
+  "program": "DSBA"
+}

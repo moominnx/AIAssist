@@ -1,0 +1,4358 @@
+[
+  {
+    "subject_id": "06046400",
+    "name_th": "แคลคูลัส 1",
+    "name_en": "CALCULUS 1",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "3",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "404",
+            "teachers": [
+              "รศ. ดร. กันต์พงษ์ วรรัตน์ปัญญา"
+            ],
+            "limit": "25",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "3",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "Project Base2 ชั้น 2",
+            "teachers": [
+              "รศ. ดร. กันต์พงษ์ วรรัตน์ปัญญา"
+            ],
+            "limit": "30",
+            "count": 29
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "3",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "slope",
+            "teachers": [
+              "ดร. สุภวรรณ ทัศนประเสริฐ"
+            ],
+            "limit": "45",
+            "count": 43
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "3",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "M 04",
+            "teachers": [
+              "ดร. สุภวรรณ ทัศนประเสริฐ"
+            ],
+            "limit": "45",
+            "count": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046401",
+    "name_th": "แคลคูลัส 2",
+    "name_en": "CALCULUS 2",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "6",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "Audi",
+            "teachers": [
+              "รศ. ดร. ปานวิทย์ ธุวะนุติ"
+            ],
+            "limit": "25",
+            "count": 15
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "4",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "slope",
+            "teachers": [
+              "รศ. ดร. ปานวิทย์ ธุวะนุติ"
+            ],
+            "limit": "30",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "4",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "slope",
+            "teachers": [
+              "รศ. ดร. ปานวิทย์ ธุวะนุติ"
+            ],
+            "limit": "45",
+            "count": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046402",
+    "name_th": "พีชคณิตเชิงเส้น",
+    "name_en": "LINEAR ALGEBRA",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "Project Base3 ชั้น 3",
+            "teachers": [
+              "ผศ. ดร. อนันตพัฒน์ อนันตชัย"
+            ],
+            "limit": "25",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "Project Base4 ชั้น 3",
+            "teachers": [
+              "ดร. สุภวรรณ ทัศนประเสริฐ"
+            ],
+            "limit": "30",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "Project Base4 ชั้น 3",
+            "teachers": [
+              "ดร. สุภวรรณ ทัศนประเสริฐ"
+            ],
+            "limit": "45",
+            "count": 43
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "Project Base4 ชั้น 3",
+            "teachers": [
+              "ดร. สุภวรรณ ทัศนประเสริฐ"
+            ],
+            "limit": "45",
+            "count": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046403",
+    "name_th": "การโปรแกรมคอมพิวเตอร์",
+    "name_en": "COMPUTER PROGRAMMING",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "15:00:00",
+            "classroom": "L203",
+            "teachers": [
+              "ผศ. ดร. ประพันธ์ ปวรางกูร"
+            ],
+            "limit": "25",
+            "count": 22
+          },
+          {
+            "section": "22",
+            "teach_day": "5",
+            "teach_time": "15:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "L203",
+            "teachers": [
+              "ผศ. ดร. ประพันธ์ ปวรางกูร"
+            ],
+            "limit": "25",
+            "count": 22
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "15:00:00",
+            "classroom": "L207",
+            "teachers": [
+              "ผศ. ดร. ประพันธ์ ปวรางกูร"
+            ],
+            "limit": "30",
+            "count": 27
+          },
+          {
+            "section": "22",
+            "teach_day": "5",
+            "teach_time": "15:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "L207",
+            "teachers": [
+              "ผศ. ดร. ประพันธ์ ปวรางกูร"
+            ],
+            "limit": "30",
+            "count": 27
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "15:00:00",
+            "classroom": "L207",
+            "teachers": [
+              "ผศ. ดร. ประพันธ์ ปวรางกูร"
+            ],
+            "limit": "45",
+            "count": 33
+          },
+          {
+            "section": "22",
+            "teach_day": "5",
+            "teach_time": "15:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "L207",
+            "teachers": [
+              "ผศ. ดร. ประพันธ์ ปวรางกูร"
+            ],
+            "limit": "45",
+            "count": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046404",
+    "name_th": "พื้นฐานของระบบสมองกลฝังตัว",
+    "name_en": "FUNDAMENTAL OF EMBEDDED SYSTEM",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "4",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "404",
+            "teachers": [
+              "ผศ. ดร. อนันตพัฒน์ อนันตชัย"
+            ],
+            "limit": "25",
+            "count": 23
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "L205",
+            "teachers": [
+              "ผศ. ดร. อนันตพัฒน์ อนันตชัย"
+            ],
+            "limit": "30",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "Lab 428",
+            "teachers": [
+              "ผศ. ดร. อนันตพัฒน์ อนันตชัย"
+            ],
+            "limit": "45",
+            "count": 32
+          },
+          {
+            "section": "22",
+            "teach_day": "2",
+            "teach_time": "11:00:00",
+            "teach_time2": "13:00:00",
+            "classroom": "Lab 428",
+            "teachers": [
+              "ผศ. ดร. อนันตพัฒน์ อนันตชัย"
+            ],
+            "limit": "45",
+            "count": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046435",
+    "name_th": "หัวข้อคัดสรรด้านปัญญาประดิษฐ์ 6",
+    "name_en": "SELECTED TOPICS IN ARTIFICIAL INTELLIGENCE 6",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1",
+      "2",
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 3,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "Project Base4 ชั้น 3",
+            "teachers": [
+              "รศ. ดร. Sriparna Saha",
+              "ศ. ดร. กิติ์สุชาต พสุภา"
+            ],
+            "limit": "-",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06066000",
+    "name_th": "คณิตศาสตร์ไม่ต่อเนื่อง",
+    "name_en": "DISCRETE MATHEMATICS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "11",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "Project Base3 ชั้น 3",
+            "teachers": [
+              "ผศ. ดร. ภัทรชัย ลลิตโรจน์วงศ์",
+              "ผศ. ดร. ประพันธ์ ปวรางกูร",
+              "ดร. ศิรสิทธิ์ โล่ห์ชนะจิต"
+            ],
+            "limit": "80",
+            "count": 75
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "M 04",
+            "teachers": [
+              "ผศ. ดร. ภัทรชัย ลลิตโรจน์วงศ์",
+              "ดร. ศิรสิทธิ์ โล่ห์ชนะจิต"
+            ],
+            "limit": "30",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "M 04",
+            "teachers": [
+              "ผศ. ดร. ภัทรชัย ลลิตโรจน์วงศ์",
+              "ดร. ศิรสิทธิ์ โล่ห์ชนะจิต"
+            ],
+            "limit": "45",
+            "count": 44
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "M 04",
+            "teachers": [
+              "ผศ. ดร. ภัทรชัย ลลิตโรจน์วงศ์",
+              "ดร. ศิรสิทธิ์ โล่ห์ชนะจิต"
+            ],
+            "limit": "45",
+            "count": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06066001",
+    "name_th": "ความน่าจะเป็นและสถิติ",
+    "name_en": "PROBABILITY AND STATISTICS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "3",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "404",
+            "teachers": [
+              "ผศ. ดร. สุวิทย์ ภูมิฤทธิกุล"
+            ],
+            "limit": "25",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "3",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "M 03",
+            "teachers": [
+              "ผศ. ดร. สุวิทย์ ภูมิฤทธิกุล"
+            ],
+            "limit": "30",
+            "count": 28
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "4",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "M 22",
+            "teachers": [
+              "ผศ. ดร. สุวิทย์ ภูมิฤทธิกุล"
+            ],
+            "limit": "45",
+            "count": 44
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "4",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "M 22",
+            "teachers": [
+              "ผศ. ดร. สุวิทย์ ภูมิฤทธิกุล"
+            ],
+            "limit": "45",
+            "count": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06066301",
+    "name_th": "โครงสร้างข้อมูลและอัลกอริทึม",
+    "name_en": "DATA STRUCTURES AND ALGORITHMS",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "3",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "L205",
+            "teachers": [
+              "ดร. ภัทรภร วัฒนาชีพ"
+            ],
+            "limit": "25",
+            "count": 23
+          },
+          {
+            "section": "22",
+            "teach_day": "3",
+            "teach_time": "11:00:00",
+            "teach_time2": "13:00:00",
+            "classroom": "L205",
+            "teachers": [
+              "ดร. ภัทรภร วัฒนาชีพ"
+            ],
+            "limit": "25",
+            "count": 23
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "3",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "L205",
+            "teachers": [
+              "ดร. ภัทรภร วัฒนาชีพ"
+            ],
+            "limit": "30",
+            "count": 29
+          },
+          {
+            "section": "22",
+            "teach_day": "3",
+            "teach_time": "11:00:00",
+            "teach_time2": "13:00:00",
+            "classroom": "L205",
+            "teachers": [
+              "ดร. ภัทรภร วัฒนาชีพ"
+            ],
+            "limit": "30",
+            "count": 29
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "3",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "Lab 428",
+            "teachers": [
+              "ดร. ภัทรภร วัฒนาชีพ"
+            ],
+            "limit": "45",
+            "count": 33
+          },
+          {
+            "section": "22",
+            "teach_day": "3",
+            "teach_time": "11:00:00",
+            "teach_time2": "13:00:00",
+            "classroom": "Lab 428",
+            "teachers": [
+              "ดร. ภัทรภร วัฒนาชีพ"
+            ],
+            "limit": "45",
+            "count": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06066303",
+    "name_th": "การแก้ปัญหาและการโปรแกรมคอมพิวเตอร์",
+    "name_en": "PROBLEM SOLVING AND COMPUTER PROGRAMMING",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "2",
+            "teach_time": "13:30:00",
+            "teach_time2": "15:30:00",
+            "classroom": "L203",
+            "teachers": [
+              "ผศ. ดร. สามารถ หมุดและ"
+            ],
+            "limit": "25",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "22",
+            "teach_day": "2",
+            "teach_time": "15:30:00",
+            "teach_time2": "17:30:00",
+            "classroom": "L203",
+            "teachers": [
+              "ผศ. ดร. สามารถ หมุดและ"
+            ],
+            "limit": "25",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "2",
+            "teach_time": "13:30:00",
+            "teach_time2": "15:30:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. สามารถ หมุดและ"
+            ],
+            "limit": "30",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "22",
+            "teach_day": "2",
+            "teach_time": "13:30:00",
+            "teach_time2": "15:30:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. สามารถ หมุดและ"
+            ],
+            "limit": "30",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "2",
+            "teach_time": "13:30:00",
+            "teach_time2": "15:30:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. สามารถ หมุดและ"
+            ],
+            "limit": "45",
+            "count": 43
+          },
+          {
+            "section": "22",
+            "teach_day": "2",
+            "teach_time": "15:30:00",
+            "teach_time2": "17:30:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. สามารถ หมุดและ"
+            ],
+            "limit": "45",
+            "count": 43
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. สามารถ หมุดและ"
+            ],
+            "limit": "23",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "22",
+            "teach_day": "2",
+            "teach_time": "11:00:00",
+            "teach_time2": "13:00:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. สามารถ หมุดและ"
+            ],
+            "limit": "23",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "23",
+            "teach_day": "2",
+            "teach_time": "13:30:00",
+            "teach_time2": "15:30:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. สามารถ หมุดและ"
+            ],
+            "limit": "23",
+            "count": 16
+          },
+          {
+            "section": "24",
+            "teach_day": "2",
+            "teach_time": "15:30:00",
+            "teach_time2": "17:30:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. สามารถ หมุดและ"
+            ],
+            "limit": "23",
+            "count": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90641004",
+    "name_th": "โครงงานกลุ่ม 1",
+    "name_en": "TEAM-PROJECT 1",
+    "credit": "1",
+    "credit_str": "1(0-2-1)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "15:00:00",
+            "classroom": "M 21",
+            "teachers": [
+              "ผศ. ดร. อนันตพัฒน์ อนันตชัย"
+            ],
+            "limit": "25",
+            "count": 20
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "15:00:00",
+            "classroom": "328",
+            "teachers": [
+              "ผศ. ดร. อนันตพัฒน์ อนันตชัย"
+            ],
+            "limit": "30",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "11",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "15:00:00",
+            "classroom": "Project Base1 ชั้น 2",
+            "teachers": [
+              "ผศ. ดร. อนันตพัฒน์ อนันตชัย"
+            ],
+            "limit": "45",
+            "count": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90641007",
+    "name_th": "พลเมืองดิจิทัล",
+    "name_en": "DIGITAL CITIZEN",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "604",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "slope",
+            "teachers": [
+              "ดร. สุรชัย ทุหมัด",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "25",
+            "count": 23
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "M 04",
+            "teachers": [
+              "ผศ. ดร. ธรรศฏภณ สุระศักดิ์",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "79",
+            "count": 76
+          },
+          {
+            "section": "602",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "M 21",
+            "teachers": [
+              "ผศ. ดร. กนกวรรณ อัจฉริยะชาญวณิช"
+            ],
+            "limit": "79",
+            "count": 56
+          },
+          {
+            "section": "603",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "M 22",
+            "teachers": [
+              "ดร. สุภวรรณ ทัศนประเสริฐ"
+            ],
+            "limit": "79",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "604",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "M 23",
+            "teachers": [
+              "ดร. ชัยชนะ กุลวรฐิต"
+            ],
+            "limit": "79",
+            "count": 77
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-109",
+            "teachers": [
+              "ผศ. ดร. ชุติมา ไวยสุระสิงห์"
+            ],
+            "limit": "83",
+            "count": 56
+          },
+          {
+            "section": "602",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "M 21",
+            "teachers": [
+              "รศ. ดร. พนารัตน์ เชิญถนอมวงศ์"
+            ],
+            "limit": "83",
+            "count": 77
+          },
+          {
+            "section": "603",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "M 22",
+            "teachers": [
+              "ผศ. ดร. กนกวรรณ อัจฉริยะชาญวณิช"
+            ],
+            "limit": "83",
+            "count": 80
+          },
+          {
+            "section": "604",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-509",
+            "teachers": [
+              "อ. สหพัฒน์ สถาปนิกานนท์"
+            ],
+            "limit": "83",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90641008",
+    "name_th": "พื้นฐานทักษะการสื่อสารภาษาอังกฤษ",
+    "name_en": "INTRODUCTION TO ENGLISH COMMUNICATION SKILLS",
+    "credit": "0",
+    "credit_str": "0(0-0-45)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": "ห้องเรียน Online",
+            "teachers": [
+              "อ. ณกรณ์ บุญฤทธิ์"
+            ],
+            "limit": "60",
+            "count": 40
+          },
+          {
+            "section": "902",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": "ห้องเรียน Online",
+            "teachers": [
+              "อ. ณกรณ์ บุญฤทธิ์"
+            ],
+            "limit": "60",
+            "count": 38
+          },
+          {
+            "section": "903",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": "ห้องเรียน Online",
+            "teachers": [
+              "อ. ณกรณ์ บุญฤทธิ์"
+            ],
+            "limit": "60",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "904",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": "ห้องเรียน Online",
+            "teachers": [
+              "อ. ณกรณ์ บุญฤทธิ์"
+            ],
+            "limit": "60",
+            "count": 43
+          },
+          {
+            "section": "905",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": "ห้องเรียน Online",
+            "teachers": [
+              "อ. ณกรณ์ บุญฤทธิ์"
+            ],
+            "limit": "60",
+            "count": 25
+          },
+          {
+            "section": "906",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": "ห้องเรียน Online",
+            "teachers": [
+              "อ. ณกรณ์ บุญฤทธิ์"
+            ],
+            "limit": "60",
+            "count": 39
+          },
+          {
+            "section": "907",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": "ห้องเรียน Online",
+            "teachers": [
+              "อ. ณกรณ์ บุญฤทธิ์"
+            ],
+            "limit": "60",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "908",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": "ห้องเรียน Online",
+            "teachers": [
+              "อ. ณกรณ์ บุญฤทธิ์"
+            ],
+            "limit": "60",
+            "count": 34
+          },
+          {
+            "section": "909",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": "ห้องเรียน Online",
+            "teachers": [
+              "อ. ณกรณ์ บุญฤทธิ์"
+            ],
+            "limit": "60",
+            "count": 53
+          },
+          {
+            "section": "910",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": "ห้องเรียน Online",
+            "teachers": [
+              "อ. ณกรณ์ บุญฤทธิ์"
+            ],
+            "limit": "60",
+            "count": 42
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "915",
+            "teach_day": "1",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "ห้องเรียน Online",
+            "teachers": [
+              "อ. ณกรณ์ บุญฤทธิ์",
+              "อ. ปริณดา อู่ศิริจันทร์"
+            ],
+            "limit": "50",
+            "count": 16
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "906",
+            "teach_day": "1",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": null,
+            "teachers": [
+              "อ. ปริณดา อู่ศิริจันทร์"
+            ],
+            "limit": "50",
+            "count": 36
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "920",
+            "teach_day": "1",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": null,
+            "teachers": [
+              "อ. ปริณดา อู่ศิริจันทร์"
+            ],
+            "limit": "100",
+            "count": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642013",
+    "name_th": "บูรณาการแห่งการคิด",
+    "name_en": "INTEGRATED THINKING",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-403",
+            "teachers": [
+              "อาจารย์ ศักดิ์ชัย ใจซื่อตรง"
+            ],
+            "limit": "85",
+            "count": 73
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642015",
+    "name_th": "การคิดสร้างสรรค์และนวัตกรรม",
+    "name_en": "CREATIVE THINKING AND INNOVATION",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "903",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-401",
+            "teachers": [
+              "ดร. ปราชญ์ ปุณณศุภารมย์",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 85
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642026",
+    "name_th": "การพัฒนาทักษะเชิงวิจัย",
+    "name_en": "RESEARCH SKILL DEVELOPMENT",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1",
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-402",
+            "teachers": [
+              "ดร. อรรถพล ม่วงสวัสดิ์",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "902",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "D-401",
+            "teachers": [
+              "ดร. อรรถพล ม่วงสวัสดิ์",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 74
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642032",
+    "name_th": "กฎหมายสำหรับผู้ประกอบการ",
+    "name_en": "LAW FOR ENTREPRENEURS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "501",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "M 22",
+            "teachers": [
+              "ผศ. ดร. ใยแก้ว ศีลรักษ์"
+            ],
+            "limit": "90",
+            "count": 79
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642033",
+    "name_th": "กฎหมายสำหรับคนรุ่นใหม่",
+    "name_en": "LAW FOR NEW GENERATION",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "Project Base3 ชั้น 3",
+            "teachers": [
+              "ผศ. ดร. ใยแก้ว ศีลรักษ์"
+            ],
+            "limit": "90",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "902",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "Project Base4 ชั้น 3",
+            "teachers": [
+              "อ. นภัสนันท์ อึ้งวิฑูรสถิตย์",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 88
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "902",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "C-104",
+            "teachers": [
+              "อ. นภัสนันท์ อึ้งวิฑูรสถิตย์",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 89
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642062",
+    "name_th": "เรื่องกินเรื่องใหญ่",
+    "name_en": "ALL ABOUT FOOD",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "501",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-402",
+            "teachers": [
+              "ผศ. ดร. ปาจรีย์ อิงคะสุภัทร",
+              "ผศ. ดร. สุพีรยา อาษา"
+            ],
+            "limit": "70",
+            "count": 69
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-509",
+            "teachers": [
+              "ผศ. ดร. ปาจรีย์ อิงคะสุภัทร",
+              "ผศ. ดร. สุพีรยา อาษา"
+            ],
+            "limit": "80",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642098",
+    "name_th": "พลวัตสังคมไทย",
+    "name_en": "DYNAMICS OF THAI SOCIETY",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "902",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-509",
+            "teachers": [
+              "อ. ภาณุวัฒน์ จุทอง"
+            ],
+            "limit": "90",
+            "count": 85
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642110",
+    "name_th": "สนุกกับวิทยาศาสตร์ข้อมูล",
+    "name_en": "FUN WITH DATA SCIENCE",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-512",
+            "teachers": [
+              "ดร. อรรถพล ม่วงสวัสดิ์",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 76
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642112",
+    "name_th": "สนุกกับปัญญาประดิษฐ์",
+    "name_en": "FUN WITH AI",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "902",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-403",
+            "teachers": [
+              "ดร. นิพัทธ์ คล้ายโพธิ์",
+              "ดร. ชัยชนะ กุลวรฐิต"
+            ],
+            "limit": "90",
+            "count": 84
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642117",
+    "name_th": "ทักษะการรู้สารสนเทศแห่งศตวรรษที่ 21",
+    "name_en": "INFORMATION LITERACY SKILLS FOR THE 21st CENTURY",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-502",
+            "teachers": [
+              "ผศ. ดร. ชุติมา ไวยสุระสิงห์"
+            ],
+            "limit": "90",
+            "count": 87
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642120",
+    "name_th": "เอ็กเซลเพื่อความเป็นมืออาชีพ",
+    "name_en": "FROM EXCEL TO EXCELLENT",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "COMPUTER 3",
+            "teachers": [
+              "ผศ. ดร. ปัทมา เจริญพร"
+            ],
+            "limit": "70",
+            "count": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642143",
+    "name_th": "ชีวิตออกแบบได้",
+    "name_en": "DESIGNING YOUR LIFE",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-109",
+            "teachers": [
+              "อาจารย์ ดีจิต วรรณิสสร",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "80",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642145",
+    "name_th": "พลังแห่งบุคลิกภาพ",
+    "name_en": "POWER OF PERSONALITY",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1",
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "501",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-512",
+            "teachers": [
+              "อ. ภัครวรรณ ดวงฤทธิ์",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "80",
+            "count": 71
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "902",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "C-104",
+            "teachers": [
+              "อ. ขจิตพรรณ เมฆินทรางกูร",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 71
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642148",
+    "name_th": "ศิลปะการพัฒนาอารมณ์",
+    "name_en": "ARTS OF EMOTION DEVELOPMENT",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "502",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "C-103",
+            "teachers": [
+              "ดร. บุณฑริก เฉลิมโรจน์",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "85",
+            "count": 84
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-109",
+            "teachers": [
+              "ดร. บุณฑริก เฉลิมโรจน์",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 85
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642152",
+    "name_th": "ปันสุข",
+    "name_en": "JOY OF SHARING",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "501",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-503",
+            "teachers": [
+              "อ. ชัยฤทธิ์ อิ่มเจริญ",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "80",
+            "count": 70
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-404",
+            "teachers": [
+              "อ. ชัยฤทธิ์ อิ่มเจริญ",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 86
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-503",
+            "teachers": [
+              "อ. ชัยฤทธิ์ อิ่มเจริญ",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 66
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642153",
+    "name_th": "ความเข้าใจในพฤติกรรมมนุษย์",
+    "name_en": "UNDERSTANDING HUMAN BEHAVIOR",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "501",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "C-104",
+            "teachers": [
+              "อ. วัฒนชัย กลั่นกลึง",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "85",
+            "count": 75
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-110",
+            "teachers": [
+              "อ. วัฒนชัย กลั่นกลึง",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 84
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642163",
+    "name_th": "โดดเด่นด้วยจุดแข็ง",
+    "name_en": "STAND OUT WITH STRENGTHS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-403",
+            "teachers": [
+              "อ. ปรีชา คุ้นวานิช",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 87
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90643004",
+    "name_th": "ผู้นำพลังบวก",
+    "name_en": "POSITIVE POWER LEADER",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "501",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-501",
+            "teachers": [
+              "อ. เหิร ประสานเกลียว",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "85",
+            "count": 79
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-511",
+            "teachers": [
+              "อ. เหิร ประสานเกลียว",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 83
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90643021",
+    "name_th": "ผู้ประกอบการสมัยใหม่",
+    "name_en": "MODERN ENTREPRENEURS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-501",
+            "teachers": [
+              "อ. ธีรวุฒิ ตันติอธิมงคล",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 77
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90643026",
+    "name_th": "การวางแผนเพื่อการลงทุน",
+    "name_en": "INVESTMENT PLANNING",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1",
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-510",
+            "teachers": [
+              "ดร. ศักดิภัทร์ กฤษณจินดา",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 73
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "903",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-511",
+            "teachers": [
+              "อ. ภาณุวัฒน์ สังสิลลา",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 86
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "905",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "D-503",
+            "teachers": [
+              "อ. ธีรานนท์ ถิรเดชา",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 46
+          },
+          {
+            "section": "906",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "D-502",
+            "teachers": [
+              "อ. ชลิต คงคลัง",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90643027",
+    "name_th": "มนุษย์ เงิน และคณิตศาสตร์",
+    "name_en": "MAN, MONEY AND MATH",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1",
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "501",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-404",
+            "teachers": [
+              "ดร. งามเฉิด ด่านพัฒนามงคล"
+            ],
+            "limit": "80",
+            "count": 76
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-402",
+            "teachers": [
+              "อ. เทิดขวัญ ช้างเผือก"
+            ],
+            "limit": "90",
+            "count": 66
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "902",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-504",
+            "teachers": [
+              "อ. เทิดขวัญ ช้างเผือก"
+            ],
+            "limit": "90",
+            "count": 62
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "902",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "D-110",
+            "teachers": [
+              "อ. เทิดขวัญ ช้างเผือก"
+            ],
+            "limit": "90",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90643030",
+    "name_th": "เศรษฐศาสตร์ทั่วไป และการศึกษาความเป็นไปได้ของโครงการ",
+    "name_en": "GENERAL ECONOMICS AND PROJECT FEASIBILITY STUDY",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "501",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "slope",
+            "teachers": [
+              "ผศ. ดร. ณัฏฐกิษฐ นบนอบ"
+            ],
+            "limit": "90",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-502",
+            "teachers": [
+              "ผศ. ดร. ณัฏฐกิษฐ นบนอบ"
+            ],
+            "limit": "90",
+            "count": 85
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-510",
+            "teachers": [
+              "ผศ. ดร. ณัฏฐกิษฐ นบนอบ"
+            ],
+            "limit": "90",
+            "count": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046405",
+    "name_th": "การเรียนรู้ของเครื่องเชิงความน่าจะเป็น",
+    "name_en": "PROBABILISTIC MACHINE LEARNING",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "M 03",
+            "teachers": [
+              "ดร. ณัฏฐ์ ดิลกธนากุล"
+            ],
+            "limit": "25",
+            "count": 19
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "M 03",
+            "teachers": [
+              "ดร. ณัฏฐ์ ดิลกธนากุล"
+            ],
+            "limit": "30",
+            "count": 25
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "M 03",
+            "teachers": [
+              "ดร. ณัฏฐ์ ดิลกธนากุล"
+            ],
+            "limit": "35",
+            "count": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046406",
+    "name_th": "พื้นฐานการเรียนรู้เชิงลึก",
+    "name_en": "FUNDAMENTALS OF DEEP LEARNING",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "L308",
+            "teachers": [
+              "ดร. ณัฏฐ์ ดิลกธนากุล"
+            ],
+            "limit": "25",
+            "count": 15
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "L308",
+            "teachers": [
+              "ดร. ณัฏฐ์ ดิลกธนากุล"
+            ],
+            "limit": "30",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "L308",
+            "teachers": [
+              "ดร. ณัฏฐ์ ดิลกธนากุล"
+            ],
+            "limit": "35",
+            "count": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046407",
+    "name_th": "พื้นฐานวิทยาการข้อมูล",
+    "name_en": "FUNDAMENTALS OF DATA SCIENCE",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "6",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "L205",
+            "teachers": [
+              "ผศ. ดร. อนันตพัฒน์ อนันตชัย",
+              "นาย เฉลิมพล ศิริกายน"
+            ],
+            "limit": "22",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "6",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "L205",
+            "teachers": [
+              "อ. เฉลิมพล ศิริกายน"
+            ],
+            "limit": "30",
+            "count": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046408",
+    "name_th": "การแสดงข้อมูลด้วยแผนภาพ",
+    "name_en": "DATA VISUALIZATION",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "L203",
+            "teachers": [
+              "อ. วารุนี บัววิรัตน์",
+              "ดร. ปาณิตา ธูสรานนท์"
+            ],
+            "limit": "22",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "22",
+            "teach_day": "5",
+            "teach_time": "11:00:00",
+            "teach_time2": "13:00:00",
+            "classroom": "L203",
+            "teachers": [
+              "อ. วารุนี บัววิรัตน์",
+              "ดร. ปาณิตา ธูสรานนท์"
+            ],
+            "limit": "22",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "L203",
+            "teachers": [
+              "อ. วารุนี บัววิรัตน์",
+              "ดร. ปาณิตา ธูสรานนท์"
+            ],
+            "limit": "30",
+            "count": 26
+          },
+          {
+            "section": "22",
+            "teach_day": "5",
+            "teach_time": "11:00:00",
+            "teach_time2": "13:00:00",
+            "classroom": "L203",
+            "teachers": [
+              "อ. วารุนี บัววิรัตน์",
+              "ดร. ปาณิตา ธูสรานนท์"
+            ],
+            "limit": "30",
+            "count": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046409",
+    "name_th": "คอมพิวเตอร์วิทัศน์เบื้องต้น",
+    "name_en": "INTRODUCTION TO COMPUTER VISION",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. สมเกียรติ วังศิริพิทักษ์"
+            ],
+            "limit": "25",
+            "count": 22
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. สมเกียรติ วังศิริพิทักษ์"
+            ],
+            "limit": "30",
+            "count": 26
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "4",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "L205",
+            "teachers": [
+              "ผศ. ดร. สมเกียรติ วังศิริพิทักษ์"
+            ],
+            "limit": "35",
+            "count": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046410",
+    "name_th": "การประมวลผลภาษาธรรมชาติเบื้องต้น",
+    "name_en": "INTRODUCTION TO NATURAL LANGUAGE PROCESSING",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "M 21",
+            "teachers": [
+              "รศ. ดร. พรฤดี เนติโสภากุล"
+            ],
+            "limit": "22",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "Lab 428",
+            "teachers": [
+              "ผศ. ดร. นนท์ คนึงสุขเกษม"
+            ],
+            "limit": "30",
+            "count": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046411",
+    "name_th": "การวิเคราะห์และเพิ่มประสิทธิภาพเครือข่าย",
+    "name_en": "NETWORK ANALYSIS AND OPTIMIZATION",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "404",
+            "teachers": [
+              "ผศ. ดร. ลภัส ประดิษฐ์ทัศนีย์"
+            ],
+            "limit": "22",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "Lab 434",
+            "teachers": [
+              "รศ. ดร. โชติพัชร์ ภรณวลัย",
+              "ผศ. ดร. สุเมธ ประภาวัต",
+              "ผศ. ดร. ลภัส ประดิษฐ์ทัศนีย์"
+            ],
+            "limit": "30",
+            "count": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046412",
+    "name_th": "การเพิ่มประสิทธิภาพโครงข่ายประสาทเทียม",
+    "name_en": "NEURAL NETWORK OPTIMIZATION",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "5",
+            "teach_time": "14:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "403",
+            "teachers": [
+              "รศ. ดร. ปานวิทย์ ธุวะนุติ"
+            ],
+            "limit": "22",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "5",
+            "teach_time": "14:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "403",
+            "teachers": [
+              "รศ. ดร. ปานวิทย์ ธุวะนุติ"
+            ],
+            "limit": "30",
+            "count": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046413",
+    "name_th": "ปัญญาประดิษฐ์และอินเทอร์เน็ตประสานสรรพสิ่ง",
+    "name_en": "ARTIFICIAL INTELLIGENT AND INTERNET OF THING",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "405",
+            "teachers": [
+              "ดร. อิสสระพงศ์ ค้วนเครือ"
+            ],
+            "limit": "25",
+            "count": 22
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "4",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "L304",
+            "teachers": [
+              "ดร. อิสสระพงศ์ ค้วนเครือ"
+            ],
+            "limit": "30",
+            "count": 25
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "L205",
+            "teachers": [
+              "ดร. อิสสระพงศ์ ค้วนเครือ"
+            ],
+            "limit": "35",
+            "count": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06066300",
+    "name_th": "แนวคิดระบบฐานข้อมูล",
+    "name_en": "DATABASE SYSTEM CONCEPTS",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "6",
+            "teach_time": "08:30:00",
+            "teach_time2": "10:30:00",
+            "classroom": "L205",
+            "teachers": [
+              "ผศ. ดร. พัฒนพงษ์ ฉันทมิตรโอภาส"
+            ],
+            "limit": "25",
+            "count": 22
+          },
+          {
+            "section": "22",
+            "teach_day": "6",
+            "teach_time": "10:30:00",
+            "teach_time2": "12:30:00",
+            "classroom": "L205",
+            "teachers": [
+              "ผศ. ดร. พัฒนพงษ์ ฉันทมิตรโอภาส"
+            ],
+            "limit": "25",
+            "count": 22
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "6",
+            "teach_time": "08:30:00",
+            "teach_time2": "10:30:00",
+            "classroom": "L306",
+            "teachers": [
+              "ผศ. ดร. พัฒนพงษ์ ฉันทมิตรโอภาส"
+            ],
+            "limit": "30",
+            "count": 26
+          },
+          {
+            "section": "22",
+            "teach_day": "6",
+            "teach_time": "10:30:00",
+            "teach_time2": "12:30:00",
+            "classroom": "L306",
+            "teachers": [
+              "ผศ. ดร. พัฒนพงษ์ ฉันทมิตรโอภาส"
+            ],
+            "limit": "30",
+            "count": 26
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "3",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. พัฒนพงษ์ ฉันทมิตรโอภาส"
+            ],
+            "limit": "35",
+            "count": 22
+          },
+          {
+            "section": "22",
+            "teach_day": "3",
+            "teach_time": "11:00:00",
+            "teach_time2": "13:00:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. พัฒนพงษ์ ฉันทมิตรโอภาส"
+            ],
+            "limit": "35",
+            "count": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90641005",
+    "name_th": "โครงงานกลุ่ม 2",
+    "name_en": "TEAM-PROJECT 2",
+    "credit": "1",
+    "credit_str": "1(0-2-1)",
+    "student_years": [
+      "2",
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "6",
+            "teach_time": "14:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "403",
+            "teachers": [
+              "ดร. อิสสระพงศ์ ค้วนเครือ"
+            ],
+            "limit": "22",
+            "count": 19
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "403",
+            "teachers": [
+              "ดร. อิสสระพงศ์ ค้วนเครือ"
+            ],
+            "limit": "3",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "Project Base1 ชั้น 2",
+            "teachers": [
+              "ผศ. ดร. สุพัณณดา โชติพันธ์",
+              "ดร. อิสสระพงศ์ ค้วนเครือ"
+            ],
+            "limit": "30",
+            "count": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90641009",
+    "name_th": "ทักษะการสื่อสารภาษาอังกฤษระหว่างวัฒนธรรม 1",
+    "name_en": "INTERCULTURAL COMMUNICATION SKILLS IN ENGLISH 1",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "908",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "E12-902",
+            "teachers": [
+              "ผศ. ดร. ฐปนีย์ เขมานุวงศ์"
+            ],
+            "limit": "50",
+            "count": 34
+          },
+          {
+            "section": "909",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "E12-903",
+            "teachers": [
+              "อ. ปริณดา อู่ศิริจันทร์"
+            ],
+            "limit": "50",
+            "count": 47
+          },
+          {
+            "section": "910",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "E12-901",
+            "teachers": [
+              "อ. ณกรณ์ บุญฤทธิ์"
+            ],
+            "limit": "50",
+            "count": 42
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "922",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "E12-601",
+            "teachers": [
+              "อ. รัชดา เชิดสูงเนิน",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "48",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "923",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "E12-602",
+            "teachers": [
+              "อ. นิยะดา รสิกวรรณ",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "48",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "924",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "E12-603",
+            "teachers": [
+              "อ. เลอพงศ์ อ่ำเสงี่ยม",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "48",
+            "count": 35
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "940",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "D-511",
+            "teachers": [
+              "อ. รัชดา เชิดสูงเนิน",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "52",
+            "count": 46
+          },
+          {
+            "section": "941",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "C - 203 A",
+            "teachers": [
+              "อ. นิยะดา รสิกวรรณ",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "52",
+            "count": 43
+          },
+          {
+            "section": "942",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "C - 203 B",
+            "teachers": [
+              "อ. สุทัศน์ ณ นคร",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "52",
+            "count": 2
+          },
+          {
+            "section": "943",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "D-201 A",
+            "teachers": [
+              "ดร. CHINEBETH BORJA"
+            ],
+            "limit": "52",
+            "count": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90641010",
+    "name_th": "ทักษะการสื่อสารภาษาอังกฤษระหว่างวัฒนธรรม 2",
+    "name_en": "INTERCULTURAL COMMUNICATION SKILLS IN ENGLISH 2",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-201 A",
+            "teachers": [
+              "อ. ณกรณ์ บุญฤทธิ์"
+            ],
+            "limit": "50",
+            "count": 17
+          },
+          {
+            "section": "902",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-201 B",
+            "teachers": [
+              "อ. ปริณดา อู่ศิริจันทร์"
+            ],
+            "limit": "50",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "924",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "C - 201 A",
+            "teachers": [
+              "อ. กนกพร นุชนานนท์เทพ"
+            ],
+            "limit": "58",
+            "count": 57
+          },
+          {
+            "section": "925",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "C - 201 B",
+            "teachers": [
+              "อ. นิธิ ไพศาลวรจิต"
+            ],
+            "limit": "58",
+            "count": 57
+          },
+          {
+            "section": "926",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "C - 202 A",
+            "teachers": [
+              "อ. นิยะดา รสิกวรรณ",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "58",
+            "count": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046414",
+    "name_th": "การประมวลผลภาษาธรรมชาติด้วยการเรียนรู้เชิงลึก",
+    "name_en": "NATURAL LANGUAGE PROCESSING WITH DEEP LEARNING",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "3",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "M 21",
+            "teachers": [
+              "รศ. ดร. พรฤดี เนติโสภากุล"
+            ],
+            "limit": "22",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "2",
+            "teach_time": "14:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "L308",
+            "teachers": [
+              "ผศ. ดร. นนท์ คนึงสุขเกษม"
+            ],
+            "limit": "30",
+            "count": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046415",
+    "name_th": "การประมวลผลสัญญาณ",
+    "name_en": "SIGNAL PROCESSING",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "6",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "L304",
+            "teachers": [
+              "รศ. ดร. ปานวิทย์ ธุวะนุติ"
+            ],
+            "limit": "22",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "6",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "L304",
+            "teachers": [
+              "รศ. ดร. ปานวิทย์ ธุวะนุติ"
+            ],
+            "limit": "30",
+            "count": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046430",
+    "name_th": "หัวข้อคัดสรรด้านปัญญาประดิษฐ์ 1",
+    "name_en": "SELECTED TOPICS IN ARTIFICIAL INTELLIGENCE 1",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "L308",
+            "teachers": [
+              "ดร. ภัทรภร วัฒนาชีพ"
+            ],
+            "limit": "22",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046431",
+    "name_th": "หัวข้อคัดสรรด้านปัญญาประดิษฐ์ 2",
+    "name_en": "SELECTED TOPICS IN ARTIFICIAL INTELLIGENCE 2",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "M 03",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี",
+              "ผศ. ดร. ธราวิเชษฐ์ ธิติจรูญโรจน์"
+            ],
+            "limit": "22",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046432",
+    "name_th": "หัวข้อคัดสรรด้านปัญญาประดิษฐ์ 3",
+    "name_en": "หัวข้อคัดสรรด้านปัญญาประดิษฐ์ 3",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3",
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "3",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "Project Base1 ชั้น 2",
+            "teachers": [
+              "ผศ. อัครินทร์ คุณกิตติ"
+            ],
+            "limit": "10",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "Project Base2 ชั้น 2",
+            "teachers": [
+              "ผศ. อัครินทร์ คุณกิตติ"
+            ],
+            "limit": "15",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "3",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "Project Base1 ชั้น 2",
+            "teachers": [
+              "ผศ. อัครินทร์ คุณกิตติ"
+            ],
+            "limit": "20",
+            "count": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046440",
+    "name_th": "วิชาสัมมนาปัญญาประดิษฐ์",
+    "name_en": "SEMINAR IN ARTIFICIAL INTELLIGENCE 1",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "405",
+            "teachers": [
+              "ผศ. ดร. อนันตพัฒน์ อนันตชัย"
+            ],
+            "limit": "22",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "22",
+            "teach_day": "2",
+            "teach_time": "11:00:00",
+            "teach_time2": "13:00:00",
+            "classroom": "405",
+            "teachers": [
+              "ผศ. ดร. อนันตพัฒน์ อนันตชัย"
+            ],
+            "limit": "22",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "405",
+            "teachers": [
+              "ผศ. ดร. อนันตพัฒน์ อนันตชัย"
+            ],
+            "limit": "30",
+            "count": 14
+          },
+          {
+            "section": "22",
+            "teach_day": "2",
+            "teach_time": "11:00:00",
+            "teach_time2": "13:00:00",
+            "classroom": "405",
+            "teachers": [
+              "ผศ. ดร. อนันตพัฒน์ อนันตชัย"
+            ],
+            "limit": "30",
+            "count": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046441",
+    "name_th": "โครงงานเทคโนโลยีปัญญาประดิษฐ์ 1",
+    "name_en": "PROJECT IN ARTIFICIAL INTELLIGENCE TECHNOLOGY 1",
+    "credit": "3",
+    "credit_str": "3(0-9-0)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": null,
+            "teachers": [
+              "ดร. ณัฏฐ์ ดิลกธนากุล"
+            ],
+            "limit": "22",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046445",
+    "name_th": "การเรียนรู้เชิงลึกสำหรับการวิเคราะห์ภาพและวิดีโอทางการแพทย์",
+    "name_en": "DEEP LEARNING IN MEDICAL IMAGE AND VIDEO ANALYSIS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "M 03",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี",
+              "ผศ. ดร. ธราวิเชษฐ์ ธิติจรูญโรจน์"
+            ],
+            "limit": "25",
+            "count": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046447",
+    "name_th": "การดำเนินงานการเรียนรู้ของเครื่อง",
+    "name_en": "MACHINE LEARNING OPERATIONS ",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "4",
+            "teach_time": "13:00:00",
+            "teach_time2": "15:00:00",
+            "classroom": "L207",
+            "teachers": [
+              "ผศ. ดร. ทัศนัย พลอยสุวรรณ"
+            ],
+            "limit": "22",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "22",
+            "teach_day": "4",
+            "teach_time": "15:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "L207",
+            "teachers": [
+              "ผศ. ดร. ทัศนัย พลอยสุวรรณ"
+            ],
+            "limit": "22",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046448",
+    "name_th": "การพัฒนาแอปพลิเคชันที่ขับเคลื่อนด้วยโมเดลภาษาขนาดใหญ่",
+    "name_en": "Building LLM powered Applications",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "3",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "L308",
+            "teachers": [
+              "ดร. ณัฏฐ์ ดิลกธนากุล"
+            ],
+            "limit": "22",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "3",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "L207",
+            "teachers": [
+              "ดร. ณัฏฐ์ ดิลกธนากุล"
+            ],
+            "limit": "25",
+            "count": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90641006",
+    "name_th": "โครงงานกลุ่ม 3",
+    "name_en": "TEAM-PROJECT 3",
+    "credit": "1",
+    "credit_str": "1(0-2-1)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "L207",
+            "teachers": [
+              "ผศ. ดร. ทัศนัย พลอยสุวรรณ"
+            ],
+            "limit": "22",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642012",
+    "name_th": "กระบวนการคิดเชิงออกแบบ",
+    "name_en": "DESIGN THINKING",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-402",
+            "teachers": [
+              "อ. ณัฐชยา นรารัตน์",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 62
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-305",
+            "teachers": [
+              "อ. ธีรวุฒิ ตันติอธิมงคล",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06046442",
+    "name_th": "โครงงานเทคโนโลยีปัญญาประดิษฐ์ 2",
+    "name_en": "PROJECT IN ARTIFICIAL INTELLIGENCE TECHNOLOGY 2",
+    "credit": "3",
+    "credit_str": "3(0-9-0)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "21",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": null,
+            "teachers": [
+              "ดร. ณัฏฐ์ ดิลกธนากุล"
+            ],
+            "limit": "22",
+            "count": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "14026421",
+    "name_th": "หัวข้อเฉพาะทางบริหารธุรกิจอุตสาหกรรม 1",
+    "name_en": "SELECTED TOPIC IN INDUSTRIAL BUSINESS 1",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "6",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "KBS -104",
+            "teachers": [
+              "รศ. ดร. ภูริศ ศรสรุทร์"
+            ],
+            "limit": "80",
+            "count": 48
+          },
+          {
+            "section": "2",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "KBS -104",
+            "teachers": [
+              "รศ. ดร. ภูริศ ศรสรุทร์"
+            ],
+            "limit": "80",
+            "count": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642115",
+    "name_th": "เทคโนโลยีสีเขียวและพลังงานทดแทน",
+    "name_en": "GREEN TECHNOLOGY AND ALTERNATIVE ENERGY",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "902",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "D-305",
+            "teachers": [
+              "ผศ. พีรวัจน์ มีสุข",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 74
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642129",
+    "name_th": "การท่องเที่ยวทางเลือก",
+    "name_en": "ALTERNATIVE TOURISM",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "D-402",
+            "teachers": [
+              "อ. ณัฐวรา คชสิทธิ์"
+            ],
+            "limit": "90",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642131",
+    "name_th": "วัฒนธรรมไทยกับการท่องเที่ยว",
+    "name_en": "THAI CULTURE AND TOURISM",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "902",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "D-501",
+            "teachers": [
+              "อ. วันวิสาข์ พงษ์ปลื้ม",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642144",
+    "name_th": "กระจกส่องใจ",
+    "name_en": "MAGIC MIRROR",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "C-103",
+            "teachers": [
+              "ผศ. ดร. พนิดา จันทรกรานต์"
+            ],
+            "limit": "90",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642147",
+    "name_th": "ทักษะแห่งความสุข",
+    "name_en": "HAPPINESS SKILLS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "C-101",
+            "teachers": [
+              "อ. วิภาดา แหวนเพชร",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642157",
+    "name_th": "โหราศาสตร์ไทย",
+    "name_en": "THAI ASTROLOGY",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "904",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "D-512",
+            "teachers": [
+              "อ. ธาตรี เทียมทอง",
+              "อ. ปรามุข โฉมตรึก",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642217",
+    "name_th": "การคิดเชิงออกแบบเพื่อความยั่งยืน",
+    "name_en": "DESIGN THINKING FOR SUSTAINABILITY",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "907",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "D-109",
+            "teachers": [
+              "อ. สุพัชรี ภู่อาวรณ์"
+            ],
+            "limit": "90",
+            "count": 82
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90643012",
+    "name_th": "การทำงานเป็นทีม",
+    "name_en": "TEAMWORK",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "905",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "M 21",
+            "teachers": [
+              "ดร. สุรชัย ทุหมัด",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 79
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90643022",
+    "name_th": "ผู้ประกอบการทางสังคม",
+    "name_en": "SOCIAL ENTREPRENEURS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "902",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "D-510",
+            "teachers": [
+              "อาจารย์ วิรันญา ระฆังทอง",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "90",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90643040",
+    "name_th": "ผู้นำในฐานะโค้ช",
+    "name_en": "LEADERSHIP AS A COACH",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "D-511",
+            "teachers": [
+              "ผศ. ดร. จารุวรรณ พลอยดวงรัตน์"
+            ],
+            "limit": "90",
+            "count": 0
+          },
+          {
+            "section": "902",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "D-509",
+            "teachers": [
+              "อ. ปรีชา คุ้นวานิช"
+            ],
+            "limit": "90",
+            "count": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90643047",
+    "name_th": "กองทุนรวมสำหรับมือใหม่",
+    "name_en": "MUTUAL FUND FOR ROOKIE",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "902",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "C-102",
+            "teachers": [
+              "ผศ. ดร. ณัฐพร พรหมรส"
+            ],
+            "limit": "90",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90644010",
+    "name_th": "การพัฒนาทักษะการอ่านและการเขียนภาษาอังกฤษ",
+    "name_en": "DEVELOPMENT OF READING AND WRITING SKILLS IN ENGLISH",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "903",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-302 A",
+            "teachers": [
+              "ดร. นันทิยา สุวรรณ"
+            ],
+            "limit": "60",
+            "count": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90644011",
+    "name_th": "ภาษาอังกฤษเชิงวิชาการ",
+    "name_en": "ENGLISH FOR ACADEMIC PURPOSES",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-302 B",
+            "teachers": [
+              "ดร. วีรยา ดลสมสกุลกิจ",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "60",
+            "count": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90644017",
+    "name_th": "ภาษาอังกฤษสำหรับธุรกิจ",
+    "name_en": "ENGLISH FOR BUSINESS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-304 A",
+            "teachers": [
+              "รศ. ปรียาภา จิตต์บุญ"
+            ],
+            "limit": "60",
+            "count": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90644042",
+    "name_th": "การสื่อสารและการนำเสนออย่างมืออาชีพ",
+    "name_en": "PROFESSIONAL COMMUNICATION AND PRESENTATION",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "906",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-303 B",
+            "teachers": [
+              "อ. สหพัฒน์ สถาปนิกานนท์"
+            ],
+            "limit": "60",
+            "count": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90644050",
+    "name_th": "การเขียนภาษาไทยในที่ทำงาน",
+    "name_en": "THAI WRITING IN WORKPLACE",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-504",
+            "teachers": [
+              "ผศ. ดร. ภัทณิดา โสดาบัน"
+            ],
+            "limit": "80",
+            "count": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90644062",
+    "name_th": "ภาษาญี่ปุ่นเพื่อการสื่อสาร",
+    "name_en": "JAPANESE FOR COMMUNICATION",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-304 B",
+            "teachers": [
+              "อ. ศิรินดา โชคศิริวิทยา",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "60",
+            "count": 47
+          }
+        ]
+      }
+    ]
+  }
+]

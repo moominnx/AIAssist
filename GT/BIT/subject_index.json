@@ -1,0 +1,3767 @@
+[
+  {
+    "subject_id": "06036100",
+    "name_th": "พื้นฐานทางด้านเทคโนโลยีสารสนเทศ",
+    "name_en": "INFORMATION TECHNOLOGY FUNDAMENTALS",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "15:00:00",
+            "classroom": "L306",
+            "teachers": [
+              "ผศ. ดร. ประพันธ์ ปวรางกูร"
+            ],
+            "limit": "35",
+            "count": 27
+          },
+          {
+            "section": "2",
+            "teach_day": "2",
+            "teach_time": "15:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "L306",
+            "teachers": [
+              "ผศ. ดร. ประพันธ์ ปวรางกูร"
+            ],
+            "limit": "35",
+            "count": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036101",
+    "name_th": "คณิตศาสตร์สำหรับธุรกิจ",
+    "name_en": "MATHEMATICS FOR BUSINESS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "405",
+            "teachers": [
+              "ผศ. ดร. บุญประเสริฐ สุรักษ์รัตนสกุล"
+            ],
+            "limit": "35",
+            "count": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036102",
+    "name_th": "การวิเคราะห์เชิงสถิติสำหรับธุรกิจ",
+    "name_en": "STATISTICAL ANALYSIS FOR BUSINESS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "404",
+            "teachers": [
+              "รศ. ดร. พรฤดี เนติโสภากุล"
+            ],
+            "limit": "30",
+            "count": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036109",
+    "name_th": "กระบวนการและโมเดลทางธุรกิจ",
+    "name_en": "BUSINESS PROCESSES AND BUSINESS MODEL",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "3",
+            "teach_time": "14:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "403",
+            "teachers": [
+              "ผศ. ดร. BILAL KHALID",
+              "ผศ. วสุ กีรติวุฒิเศรษฐ์",
+              "ดร. สายชล ปิ่นมณี",
+              "ผศ. ดร. ลภัส ประดิษฐ์ทัศนีย์"
+            ],
+            "limit": "27",
+            "count": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036118",
+    "name_th": "การแก้ปัญหาทางด้านเทคโนโลยีสารสนเทศ",
+    "name_en": "PROBLEM SOLVING IN INFORMATION TECHNOLOGY",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "1",
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "3",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "L306",
+            "teachers": [
+              "ผศ. ดร. สามารถ หมุดและ"
+            ],
+            "limit": "35",
+            "count": 28
+          },
+          {
+            "section": "2",
+            "teach_day": "3",
+            "teach_time": "11:00:00",
+            "teach_time2": "13:00:00",
+            "classroom": "L306",
+            "teachers": [
+              "ผศ. ดร. สามารถ หมุดและ"
+            ],
+            "limit": "35",
+            "count": 28
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "3",
+            "teach_time": "13:00:00",
+            "teach_time2": "15:00:00",
+            "classroom": "COM BIT",
+            "teachers": [
+              "ผศ. ดร. สามารถ หมุดและ"
+            ],
+            "limit": "5",
+            "count": 2
+          },
+          {
+            "section": "2",
+            "teach_day": "3",
+            "teach_time": "15:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "COM BIT",
+            "teachers": [
+              "ผศ. ดร. สามารถ หมุดและ"
+            ],
+            "limit": "5",
+            "count": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036119",
+    "name_th": "พื้นฐานการเขียนโปรแกรม",
+    "name_en": "PROGRAMMING FUNDAMENTALS",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "1",
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "3",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "L306",
+            "teachers": [
+              "ผศ. ดร. ประพันธ์ ปวรางกูร"
+            ],
+            "limit": "27",
+            "count": 26
+          },
+          {
+            "section": "2",
+            "teach_day": "3",
+            "teach_time": "11:00:00",
+            "teach_time2": "13:00:00",
+            "classroom": "L306",
+            "teachers": [
+              "ผศ. ดร. ประพันธ์ ปวรางกูร"
+            ],
+            "limit": "27",
+            "count": 26
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "3",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "L205",
+            "teachers": [
+              "ผศ. ดร. ประพันธ์ ปวรางกูร"
+            ],
+            "limit": "1",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "2",
+            "teach_day": "3",
+            "teach_time": "11:00:00",
+            "teach_time2": "13:00:00",
+            "classroom": "L205",
+            "teachers": [
+              "ผศ. ดร. ประพันธ์ ปวรางกูร"
+            ],
+            "limit": "1",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036125",
+    "name_th": "สถาปัตยกรรมคอมพิวเตอร์และระบบปฏิบัติการ",
+    "name_en": "COMPUTER ARCHITECTURE AND OPERATING SYSTEM",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "15:00:00",
+            "classroom": "405",
+            "teachers": [
+              "ผศ. ดร. สุภกิจ นุตยะสกุล"
+            ],
+            "limit": "30",
+            "count": 26
+          },
+          {
+            "section": "2",
+            "teach_day": "2",
+            "teach_time": "15:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "405",
+            "teachers": [
+              "ผศ. ดร. สุภกิจ นุตยะสกุล"
+            ],
+            "limit": "30",
+            "count": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90644008",
+    "name_th": "ภาษาอังกฤษพื้นฐาน 2",
+    "name_en": "FOUNDATION ENGLISH 2",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "945",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "C - 203 A",
+            "teachers": [
+              "อ. สุทัศน์ ณ นคร",
+              "อ. วรัญญา โรงคำ",
+              "ผศ. ดร. มธุรดา จิโนรส"
+            ],
+            "limit": "55",
+            "count": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96641002",
+    "name_th": "ความฉลาดทางดิจิทัล",
+    "name_en": "DIGITAL INTELLIGENCE QUOTIENT",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "KBS -102",
+            "teachers": [
+              "ผศ. ดร. พรรณทิพา วาณิชย์จิรัฐติกาล"
+            ],
+            "limit": "76",
+            "count": 74
+          },
+          {
+            "section": "902",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "KBS -104",
+            "teachers": [
+              "รศ. ดร. อมตะ อนันต์พินิจวัฒนา"
+            ],
+            "limit": "75",
+            "count": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96642999",
+    "name_th": "CHARM SCHOOL",
+    "name_en": "CHARM SCHOOL",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "M 21",
+            "teachers": [
+              "อ. รัตนสุดา กิตติก้องนภางค์",
+              "ผศ. ดร. มธุรดา จิโนรส"
+            ],
+            "limit": "70",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "902",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "D-512",
+            "teachers": [
+              "อ. วันวิสาข์ พงษ์ปลื้ม",
+              "ผศ. ดร. มธุรดา จิโนรส"
+            ],
+            "limit": "70",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96644007",
+    "name_th": "FOUNDATION ENGLISH 1",
+    "name_en": "FOUNDATION ENGLISH 1",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "951",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "M 03",
+            "teachers": [
+              "ดร. ALEXANDER KLEMM"
+            ],
+            "limit": "35",
+            "count": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96644008",
+    "name_th": "FOUNDATION ENGLISH 2",
+    "name_en": "FOUNDATION ENGLISH 2",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "403",
+            "teachers": [
+              "ดร. ALEXANDER KLEMM"
+            ],
+            "limit": "35",
+            "count": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96644042",
+    "name_th": "PROFESSIONAL COMMUNICATION AND PRESENTATION",
+    "name_en": "PROFESSIONAL COMMUNICATION AND PRESENTATION",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "1"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "951",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "405",
+            "teachers": [
+              "ดร. MANASHI DUTTA"
+            ],
+            "limit": "35",
+            "count": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036103",
+    "name_th": "บูรณาการเทคนิคเชิงสถิติสำหรับธุรกิจ",
+    "name_en": "INTEGRATION OF STATISTICAL TECHNIQUES FOR BUSINESS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "4",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "404",
+            "teachers": [
+              "ผศ. ดร. กนกกรรณ์ ลี้โรจนาประภา"
+            ],
+            "limit": "16",
+            "count": 15
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "4",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "M 22",
+            "teachers": [
+              "ผศ. ดร. กนกกรรณ์ ลี้โรจนาประภา"
+            ],
+            "limit": "27",
+            "count": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036104",
+    "name_th": "องค์กรและการจัดการ",
+    "name_en": "MANAGEMENT AND ORGANIZATIONS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "404",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี"
+            ],
+            "limit": "16",
+            "count": 15
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "M 22",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี"
+            ],
+            "limit": "27",
+            "count": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036105",
+    "name_th": "บัญชีการเงินสำหรับผู้มิใช่นักบัญชี",
+    "name_en": "FINANCIAL ACCOUNTING FOR NON-ACCOUNTANTS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "403",
+            "teachers": [
+              "ผศ. ดร. นนท์ คนึงสุขเกษม"
+            ],
+            "limit": "16",
+            "count": 15
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "Project Base2 ชั้น 2",
+            "teachers": [
+              "ผศ. ดร. นนท์ คนึงสุขเกษม"
+            ],
+            "limit": "27",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036108",
+    "name_th": "เศรษฐศาสตร์เทคโนโลยีสารสนเทศ",
+    "name_en": "ECONOMICS OF INFORMATION TECHNOLOGY",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "404",
+            "teachers": [
+              "รศ. ดร. ชลิตา ศรีนวล"
+            ],
+            "limit": "16",
+            "count": 15
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "3",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "328",
+            "teachers": [
+              "รศ. ดร. ชลิตา ศรีนวล"
+            ],
+            "limit": "27",
+            "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036111",
+    "name_th": "เทคโนโลยีดิจิทัลสำหรับธุรกิจ",
+    "name_en": "DIGITAL TECHNOLOGY FOR BUSINESS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "403",
+            "teachers": [
+              "ผศ. ดร. บุญประเสริฐ สุรักษ์รัตนสกุล"
+            ],
+            "limit": "16",
+            "count": 15
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "4",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "403",
+            "teachers": [
+              "อ. Nathan John",
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี"
+            ],
+            "limit": "27",
+            "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036112",
+    "name_th": "แนวคิดระบบฐานข้อมูล",
+    "name_en": "DATABASE SYSTEM CONCEPTS",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "3",
+            "teach_time": "13:00:00",
+            "teach_time2": "15:00:00",
+            "classroom": "333",
+            "teachers": [
+              "ผศ. ดร. พัฒนพงษ์ ฉันทมิตรโอภาส"
+            ],
+            "limit": "16",
+            "count": 14
+          },
+          {
+            "section": "2",
+            "teach_day": "3",
+            "teach_time": "15:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "333",
+            "teachers": [
+              "ผศ. ดร. พัฒนพงษ์ ฉันทมิตรโอภาส"
+            ],
+            "limit": "16",
+            "count": 14
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "08:30:00",
+            "teach_time2": "10:30:00",
+            "classroom": "L207",
+            "teachers": [
+              "ผศ. ดร. พัฒนพงษ์ ฉันทมิตรโอภาส"
+            ],
+            "limit": "27",
+            "count": 26
+          },
+          {
+            "section": "2",
+            "teach_day": "2",
+            "teach_time": "10:30:00",
+            "teach_time2": "12:30:00",
+            "classroom": "L207",
+            "teachers": [
+              "ผศ. ดร. พัฒนพงษ์ ฉันทมิตรโอภาส"
+            ],
+            "limit": "27",
+            "count": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036113",
+    "name_th": "การออกแบบส่วนต่อประสานกับมนุษย์",
+    "name_en": "HUMAN INTERFACE DESIGN",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2",
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "404",
+            "teachers": [
+              "รศ. ดร. นพพร โชติกกำธร"
+            ],
+            "limit": "16",
+            "count": 14
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "404",
+            "teachers": [
+              "รศ. ดร. นพพร โชติกกำธร"
+            ],
+            "limit": "27",
+            "count": 22
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "3",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "405",
+            "teachers": [
+              "รศ. ดร. นพพร โชติกกำธร"
+            ],
+            "limit": "4",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036117",
+    "name_th": "อัจฉริยะทางธุรกิจและข้อมูลขนาดใหญ่",
+    "name_en": "BUSINESS INTELLIGENCE AND BIG DATA",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "6",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "COM BIT",
+            "teachers": [
+              "ดร. ณัฏฐ์ ดิลกธนากุล"
+            ],
+            "limit": "16",
+            "count": 15
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "6",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "333",
+            "teachers": [
+              "ดร. ณัฏฐ์ ดิลกธนากุล"
+            ],
+            "limit": "27",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036120",
+    "name_th": "หลักการโครงสร้างข้อมูลและอัลกอริทึม",
+    "name_en": "DATA STRUCTURES AND ALGORITHMS PRINCIPLES",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2",
+      "3",
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "L205",
+            "teachers": [
+              "ดร. ศิรสิทธิ์ โล่ห์ชนะจิต"
+            ],
+            "limit": "16",
+            "count": 15
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "L205",
+            "teachers": [
+              "ดร. ศิรสิทธิ์ โล่ห์ชนะจิต"
+            ],
+            "limit": "27",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "404",
+            "teachers": [
+              "ดร. ศิรสิทธิ์ โล่ห์ชนะจิต"
+            ],
+            "limit": "3",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036122",
+    "name_th": "การสื่อสารด้วยภาพสำหรับธุรกิจ",
+    "name_en": "VISUAL COMMUNICATION FOR BUSINESS",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "2"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี",
+              "ดร. ธนชาตย์ ฤทธิ์บำรุง"
+            ],
+            "limit": "16",
+            "count": 15
+          },
+          {
+            "section": "2",
+            "teach_day": "5",
+            "teach_time": "14:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี",
+              "ดร. ธนชาตย์ ฤทธิ์บำรุง"
+            ],
+            "limit": "16",
+            "count": 15
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "15:00:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี",
+              "อ. ทรงวุฒิ อมรนุกูล"
+            ],
+            "limit": "27",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "2",
+            "teach_day": "6",
+            "teach_time": "15:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี",
+              "อ. ทรงวุฒิ อมรนุกูล"
+            ],
+            "limit": "27",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036124",
+    "name_th": "เครือข่ายคอมพิวเตอร์และความมั่นคงทางไซเบอร์เบื้องต้น",
+    "name_en": "INTRODUCTION TO COMPUTER NETWORK AND CYBERSECURITY",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2",
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "M 03",
+            "teachers": [
+              "ผศ. ดร. สุเมธ ประภาวัต",
+              "ผศ. ดร. โอฬาร วงศ์วิรัตน์"
+            ],
+            "limit": "16",
+            "count": 15
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "404",
+            "teachers": [
+              "ผศ. ดร. สุเมธ ประภาวัต",
+              "ผศ. ดร. โอฬาร วงศ์วิรัตน์"
+            ],
+            "limit": "27",
+            "count": 24
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "404",
+            "teachers": [
+              "ผศ. ดร. สุเมธ ประภาวัต"
+            ],
+            "limit": "1",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96642162",
+    "name_th": "READY TO WORK",
+    "name_en": "READY TO WORK",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2",
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "328",
+            "teachers": [
+              "อ. วันวิสาข์ พงษ์ปลื้ม",
+              "รศ. ดร. อมตะ อนันต์พินิจวัฒนา"
+            ],
+            "limit": "45",
+            "count": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96643020",
+    "name_th": "INNOVATIVE ENTREPRENEURS",
+    "name_en": "INNOVATIVE ENTREPRENEURS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "2",
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "404",
+            "teachers": [
+              "อ. พุทธิพงษ์ อนันตโสภณ",
+              "รศ. ดร. อมตะ อนันต์พินิจวัฒนา"
+            ],
+            "limit": "40",
+            "count": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036002",
+    "name_th": "คณิตศาสตร์สำหรับเทคโนโลยีสารสนเทศ",
+    "name_en": "MATHEMATICS FOR INFORMATION TECHNOLOGY",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": null,
+            "teachers": [
+              "ผศ. ดร. ประพันธ์ ปวรางกูร"
+            ],
+            "limit": "1",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036007",
+    "name_th": "การบริหารโครงการเทคโนโลยีสารสนเทศ",
+    "name_en": "INFORMATION TECHNOLOGY PROJECT MANAGEMENT",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3",
+      "5"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "404",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี"
+            ],
+            "limit": "20",
+            "count": 19
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "404",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี"
+            ],
+            "limit": "-",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036009",
+    "name_th": "เศรษฐศาสตร์เทคโนโลยีสารสนเทศ",
+    "name_en": "ECONOMICS OF INFORMATION TECHNOLOGY",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "4",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "403",
+            "teachers": [
+              "รศ. ดร. ชลิตา ศรีนวล"
+            ],
+            "limit": "19",
+            "count": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036010",
+    "name_th": "กระบวนการธุรกิจและการวางแผนทรัพยากรองค์กร",
+    "name_en": "BUSINESS PROCESSES AND ENTERPRISE RESOURCE PLANNING",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "3",
+      "4",
+      "5"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "3",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "L308",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี",
+              "อ. กิตติศักดิ์ ธีระธัญศิริกุล"
+            ],
+            "limit": "19",
+            "count": 17
+          },
+          {
+            "section": "2",
+            "teach_day": "3",
+            "teach_time": "11:00:00",
+            "teach_time2": "13:00:00",
+            "classroom": "L308",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี",
+              "อ. กิตติศักดิ์ ธีระธัญศิริกุล"
+            ],
+            "limit": "19",
+            "count": 17
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "15:00:00",
+            "classroom": "405",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี"
+            ],
+            "limit": "-",
+            "count": 1
+          },
+          {
+            "section": "2",
+            "teach_day": "6",
+            "teach_time": "15:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "405",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี"
+            ],
+            "limit": "-",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี",
+              "อาจารย์ กิตติศักดิ์ ธีระธัญศิริกุล"
+            ],
+            "limit": "-",
+            "count": 0
+          },
+          {
+            "section": "2",
+            "teach_day": "4",
+            "teach_time": "11:00:00",
+            "teach_time2": "13:00:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี",
+              "อาจารย์ กิตติศักดิ์ ธีระธัญศิริกุล"
+            ],
+            "limit": "-",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036011",
+    "name_th": "แนวคิดระบบฐานข้อมูล",
+    "name_en": "DATABASE SYSTEM CONCEPTS",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "3",
+            "teach_time": "13:00:00",
+            "teach_time2": "15:00:00",
+            "classroom": "333",
+            "teachers": [
+              "ผศ. ดร. พัฒนพงษ์ ฉันทมิตรโอภาส"
+            ],
+            "limit": "5",
+            "count": 4
+          },
+          {
+            "section": "2",
+            "teach_day": "3",
+            "teach_time": "15:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "333",
+            "teachers": [
+              "ผศ. ดร. พัฒนพงษ์ ฉันทมิตรโอภาส"
+            ],
+            "limit": "5",
+            "count": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036012",
+    "name_th": "การออกแบบส่วนต่อประสานกับมนุษย์",
+    "name_en": "HUMAN INTERFACE DESIGN",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3",
+      "4",
+      "5"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "404",
+            "teachers": [
+              "รศ. ดร. นพพร โชติกกำธร"
+            ],
+            "limit": "5",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "404",
+            "teachers": [
+              "รศ. ดร. นพพร โชติกกำธร"
+            ],
+            "limit": "-",
+            "count": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036014",
+    "name_th": "ความมั่นคงของระบบสารสนเทศและกฏหมายไอที",
+    "name_en": "INFORMATION SYSTEM SECURITY AND IT LAWS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3",
+      "5"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "404",
+            "teachers": [
+              "ผศ. ดร. สุเมธ ประภาวัต",
+              "ผศ. ดร. ประพันธ์ ปวรางกูร"
+            ],
+            "limit": "19",
+            "count": 18
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "403",
+            "teachers": [
+              "ผศ. ดร. สุเมธ ประภาวัต",
+              "ผศ. ดร. ประพันธ์ ปวรางกูร"
+            ],
+            "limit": "-",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036015",
+    "name_th": "การทำการตลาดดิจิทัล",
+    "name_en": "DIGITAL MARKETING",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "Project Base2 ชั้น 2",
+            "teachers": [
+              "ผศ.ภญ.ดร. อโณทัย งามวิชัยกิจ",
+              "อ. นิตินัย สุนทรเภสัช",
+              "ผศ. ดร. ลภัส ประดิษฐ์ทัศนีย์"
+            ],
+            "limit": "18",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "2",
+            "teach_day": "5",
+            "teach_time": "11:00:00",
+            "teach_time2": "13:00:00",
+            "classroom": "Project Base2 ชั้น 2",
+            "teachers": [
+              "ผศ.ภญ.ดร. อโณทัย งามวิชัยกิจ",
+              "อ. นิตินัย สุนทรเภสัช",
+              "ผศ. ดร. ลภัส ประดิษฐ์ทัศนีย์"
+            ],
+            "limit": "18",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036016",
+    "name_th": "ธุรกิจอัจฉริยะ และข้อมูลขนาดใหญ่",
+    "name_en": "BUSINESS INTELLIGENCE & BIG DATA",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "6",
+            "teach_time": "14:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "333",
+            "teachers": [
+              "ดร. ณัฏฐ์ ดิลกธนากุล"
+            ],
+            "limit": "18",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036017",
+    "name_th": "ระบบที่ใช้ทั้งองค์กร",
+    "name_en": "ENTERPRISE SYSTEMS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "403",
+            "teachers": [
+              "Dr. Parham Porouhan",
+              "ผศ. ดร. บุญประเสริฐ สุรักษ์รัตนสกุล"
+            ],
+            "limit": "18",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036018",
+    "name_th": "สื่อสังคม และเครือข่ายสังคม",
+    "name_en": "SOCIAL MEDIA AND SOCIAL NETWORK",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "4",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "403",
+            "teachers": [
+              "อ. Nathan John",
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี"
+            ],
+            "limit": "18",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036025",
+    "name_th": "เทคโนโลยีเชิงอ็อบเจกต์",
+    "name_en": "OBJECT ORIENTED TECHNOLOGY",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "403",
+            "teachers": [
+              "ผศ. ดร. บุญประเสริฐ สุรักษ์รัตนสกุล"
+            ],
+            "limit": "19",
+            "count": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036026",
+    "name_th": "การพัฒนาโปรแกรมประยุกต์บนอุปกรณ์เคลื่อนที่",
+    "name_en": "MOBILE APPLICATION DEVELOPMENT",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "6",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "333",
+            "teachers": [
+              "ดร. อิสสระพงศ์ ค้วนเครือ"
+            ],
+            "limit": "18",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "2",
+            "teach_day": "6",
+            "teach_time": "11:00:00",
+            "teach_time2": "13:00:00",
+            "classroom": "333",
+            "teachers": [
+              "ดร. อิสสระพงศ์ ค้วนเครือ"
+            ],
+            "limit": "18",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036033",
+    "name_th": "การจัดการห่วงโซ่อุปทานและโลจิสติกส์",
+    "name_en": "SUPPLY CHAIN MANAGEMENT AND LOGISTICS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "403",
+            "teachers": [
+              "Dr. Parham Porouhan",
+              "ดร. สุภวรรณ ทัศนประเสริฐ"
+            ],
+            "limit": "18",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036042",
+    "name_th": "หัวข้อพิเศษทางด้านเทคโนโลยีสารสนเทศ 1",
+    "name_en": "SPECIAL TOPICS IN INFORMATION TECHNOLOGY 1",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "3",
+            "teach_time": "14:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. สุภกิจ นุตยะสกุล"
+            ],
+            "limit": "19",
+            "count": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036106",
+    "name_th": "การจัดการข้อมูลธุรกิจและเทคโนโลยีเกิดใหม่",
+    "name_en": "MANAGING BUSINESS INFORMATION AND EMERGING TECHNOLOGIES",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3",
+      "5"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "405",
+            "teachers": [
+              "Dr. Parham Porouhan",
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี"
+            ],
+            "limit": "15",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "L304",
+            "teachers": [
+              "อาจารย์ ดร. PARHAM POROUHAN",
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี"
+            ],
+            "limit": "25",
+            "count": 24
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "M 23",
+            "teachers": [
+              "ผศ. ดร. บุญประเสริฐ สุรักษ์รัตนสกุล"
+            ],
+            "limit": "1",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036107",
+    "name_th": "การบริหารโครงการเทคโนโลยีสารสนเทศ",
+    "name_en": "INFORMATION TECHNOLOGY PROJECT MANAGEMENT",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "404",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี"
+            ],
+            "limit": "15",
+            "count": 14
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "404",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี"
+            ],
+            "limit": "30",
+            "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036110",
+    "name_th": "การวางแผนทรัพยากรองค์กร",
+    "name_en": "ENTERPRISE RESOURCE PLANNING",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "3",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "L207",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี",
+              "อ. กิตติศักดิ์ ธีระธัญศิริกุล"
+            ],
+            "limit": "15",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "L304",
+            "teachers": [
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี",
+              "อาจารย์ กิตติศักดิ์ ธีระธัญศิริกุล"
+            ],
+            "limit": "30",
+            "count": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036114",
+    "name_th": "การพัฒนาเว็บแอปพลิเคชันโดยใช้เฟรมเวิร์ก",
+    "name_en": "WEB APPLICATION DEVELOPMENT USING FRAMEWORKS",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "15:00:00",
+            "classroom": "L306",
+            "teachers": [
+              "ผศ. ดร. ธราวิเชษฐ์ ธิติจรูญโรจน์",
+              "อ. สัญชัย น้อยจันทร์"
+            ],
+            "limit": "15",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "2",
+            "teach_day": "6",
+            "teach_time": "15:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "L306",
+            "teachers": [
+              "ผศ. ดร. ธราวิเชษฐ์ ธิติจรูญโรจน์",
+              "อ. สัญชัย น้อยจันทร์"
+            ],
+            "limit": "15",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "15:00:00",
+            "classroom": "Lab 428",
+            "teachers": [
+              "อาจารย์ สัญชัย น้อยจันทร์",
+              "ผศ. ดร. ธราวิเชษฐ์ ธิติจรูญโรจน์"
+            ],
+            "limit": "30",
+            "count": 24
+          },
+          {
+            "section": "2",
+            "teach_day": "2",
+            "teach_time": "15:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "Lab 428",
+            "teachers": [
+              "อาจารย์ สัญชัย น้อยจันทร์",
+              "ผศ. ดร. ธราวิเชษฐ์ ธิติจรูญโรจน์"
+            ],
+            "limit": "30",
+            "count": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036116",
+    "name_th": "การตลาดเชิงดิจิทัล",
+    "name_en": "DIGITAL MARKETING",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "3",
+            "teach_time": "13:00:00",
+            "teach_time2": "15:00:00",
+            "classroom": "L205",
+            "teachers": [
+              "อ. สราวุธ ชุโนทัยสวัสดิ์",
+              "ดร. สุภวรรณ ทัศนประเสริฐ"
+            ],
+            "limit": "15",
+            "count": "เต็ม/Full"
+          },
+          {
+            "section": "2",
+            "teach_day": "3",
+            "teach_time": "15:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "L205",
+            "teachers": [
+              "อ. สราวุธ ชุโนทัยสวัสดิ์",
+              "ดร. สุภวรรณ ทัศนประเสริฐ"
+            ],
+            "limit": "15",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "3",
+            "teach_time": "13:00:00",
+            "teach_time2": "15:00:00",
+            "classroom": "L205",
+            "teachers": [
+              "อ. สราวุธ ชุโนทัยสวัสดิ์",
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี"
+            ],
+            "limit": "25",
+            "count": 24
+          },
+          {
+            "section": "2",
+            "teach_day": "3",
+            "teach_time": "15:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "L205",
+            "teachers": [
+              "อ. สราวุธ ชุโนทัยสวัสดิ์",
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี"
+            ],
+            "limit": "25",
+            "count": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036121",
+    "name_th": "การวิเคราะห์และออกแบบระบบสารสนเทศทางธุรกิจ",
+    "name_en": "BUSINESS INFORMATION SYSTEM ANALYSIS AND DESIGN",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "3",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "M 04",
+            "teachers": [
+              "ผศ. ดร. พัฒนพงษ์ ฉันทมิตรโอภาส"
+            ],
+            "limit": "15",
+            "count": 14
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "3",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "M 04",
+            "teachers": [
+              "ผศ. ดร. พัฒนพงษ์ ฉันทมิตรโอภาส"
+            ],
+            "limit": "30",
+            "count": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036123",
+    "name_th": "เทคโนโลยีกลุ่มเมฆ",
+    "name_en": "CLOUD TECHNOLOGY",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "4",
+            "teach_time": "13:30:00",
+            "teach_time2": "16:30:00",
+            "classroom": "L306",
+            "teachers": [
+              "ผศ. ดร. ลภัส ประดิษฐ์ทัศนีย์"
+            ],
+            "limit": "15",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "4",
+            "teach_time": "13:30:00",
+            "teach_time2": "16:30:00",
+            "classroom": "L306",
+            "teachers": [
+              "ผศ. ดร. ลภัส ประดิษฐ์ทัศนีย์"
+            ],
+            "limit": "30",
+            "count": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036132",
+    "name_th": "หัวข้อพิเศษทางด้านเทคโนโลยีสารสนเทศทางธุรกิจ 1",
+    "name_en": "SPECIAL TOPICS IN BUSINESS INFORMATION TECHNOLOGY 1",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3",
+      "4",
+      "5"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "3",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "M 04",
+            "teachers": [
+              "รศ. บุญเลิศ วัจจะตรากุล"
+            ],
+            "limit": "25",
+            "count": 15
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 3,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "Project Base4 ชั้น 3",
+            "teachers": [
+              "รศ. ดร. Sriparna Saha",
+              "ศ. ดร. กิติ์สุชาต พสุภา"
+            ],
+            "limit": "-",
+            "count": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036133",
+    "name_th": "หัวข้อพิเศษทางด้านเทคโนโลยีสารสนเทศทางธุรกิจ 2",
+    "name_en": "SPECIAL TOPICS IN BUSINESS INFORMATION TECHNOLOGY 2",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3",
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "Lab 434",
+            "teachers": [
+              "ผศ. ดร. สุภกิจ นุตยะสกุล"
+            ],
+            "limit": "30",
+            "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036138",
+    "name_th": "การจัดการความรู้ระดับองค์กร",
+    "name_en": "ORGANIZATIONAL KNOWLEDGE MANAGEMENT",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3",
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "405",
+            "teachers": [
+              "Dr. Parham Porouhan",
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี"
+            ],
+            "limit": "15",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "403",
+            "teachers": [
+              "อาจารย์ ดร. PARHAM POROUHAN",
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี"
+            ],
+            "limit": "40",
+            "count": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036145",
+    "name_th": "โครงงานทางด้านเทคโนโลยีสารสนเทศเชิงธุรกิจ 1",
+    "name_en": "PROJECT IN BUSINESS INFORMATION TECNOLOGY 1",
+    "credit": "3",
+    "credit_str": "3(0-9-0)",
+    "student_years": [
+      "3",
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": null,
+            "teachers": [
+              "ผศ. ดร. บุญประเสริฐ สุรักษ์รัตนสกุล"
+            ],
+            "limit": "15",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": null,
+            "teachers": [
+              "ผศ. ดร. บุญประเสริฐ สุรักษ์รัตนสกุล"
+            ],
+            "limit": "1",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": null,
+            "teachers": [
+              "ผศ. ดร. บุญประเสริฐ สุรักษ์รัตนสกุล"
+            ],
+            "limit": "25",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "90642063",
+    "name_th": "การพัฒนาสุขภาพแบบองค์รวม",
+    "name_en": "HOLISTIC HEALTH DEVELOPMENT",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "502",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": null,
+            "teachers": [
+              "ดร. วรัญญา คงปรีชา"
+            ],
+            "limit": "90",
+            "count": 88
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96642091",
+    "name_th": "ASIAN STUDY",
+    "name_en": "ASIAN STUDY",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3",
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "16:30:00",
+            "teach_time2": "19:30:00",
+            "classroom": "D-504",
+            "teachers": [
+              "Aj. Gary Torremucha",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "55",
+            "count": 11
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "16:30:00",
+            "teach_time2": "19:30:00",
+            "classroom": "403",
+            "teachers": [
+              "Aj. Gary Torremucha",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "35",
+            "count": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96642109",
+    "name_th": "INFOGRAPHIC DESIGN",
+    "name_en": "INFOGRAPHIC DESIGN",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "6",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "405",
+            "teachers": [
+              "ดร. วันเฉลิม พรหมศร"
+            ],
+            "limit": "41",
+            "count": 37
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96643021",
+    "name_th": "MODERN ENTREPRENEURS",
+    "name_en": "MODERN ENTREPRENEURS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "328",
+            "teachers": [
+              "อ. LinChih Heng",
+              "รศ. ดร. อมตะ อนันต์พินิจวัฒนา",
+              "อ. ปทิดา รุจิโมระ"
+            ],
+            "limit": "35",
+            "count": 18
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "405",
+            "teachers": [
+              "อ. ปทิดา รุจิโมระ",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "40",
+            "count": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96644011",
+    "name_th": "ENGLISH FOR ACADEMIC PURPOSES",
+    "name_en": "ENGLISH FOR ACADEMIC PURPOSES",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "3"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "404",
+            "teachers": [
+              "นาย พิพัฒน์ พีรยวัฒนา",
+              "รศ. ดร. อมตะ อนันต์พินิจวัฒนา"
+            ],
+            "limit": "35",
+            "count": 12
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "404",
+            "teachers": [
+              "อ. สิริรัตน์ ปัญญาสุขสกุล",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "35",
+            "count": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036006",
+    "name_th": "ระบบสารสนเทศเพื่อการจัดการ",
+    "name_en": "MANAGEMENT INFORMATION SYSTEMS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "405",
+            "teachers": [
+              "Dr. Parham Porouhan",
+              "ผศ. ดร. พรสุรีย์ แจ่มศรี"
+            ],
+            "limit": "-",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036019",
+    "name_th": "โครงงาน 1",
+    "name_en": "PROJECT 1",
+    "credit": "3",
+    "credit_str": "3(0-9-0)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": null,
+            "teachers": [
+              "ผศ. ดร. บุญประเสริฐ สุรักษ์รัตนสกุล"
+            ],
+            "limit": "11",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": null,
+            "teachers": [
+              "ผศ. ดร. บุญประเสริฐ สุรักษ์รัตนสกุล"
+            ],
+            "limit": "18",
+            "count": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036020",
+    "name_th": "โครงงาน 2",
+    "name_en": "PROJECT 2",
+    "credit": "3",
+    "credit_str": "3(0-9-0)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": null,
+            "teachers": [
+              "ผศ. ดร. บุญประเสริฐ สุรักษ์รัตนสกุล"
+            ],
+            "limit": "5",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": null,
+            "teachers": [
+              "ผศ. ดร. บุญประเสริฐ สุรักษ์รัตนสกุล"
+            ],
+            "limit": "18",
+            "count": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036022",
+    "name_th": "การสร้างโปรแกรมคอมพิวเตอร์",
+    "name_en": "COMPUTER PROGRAMMING",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "3",
+            "teach_time": "09:00:00",
+            "teach_time2": "11:00:00",
+            "classroom": "333",
+            "teachers": [
+              "ผศ. ดร. ประพันธ์ ปวรางกูร"
+            ],
+            "limit": "-",
+            "count": 1
+          },
+          {
+            "section": "2",
+            "teach_day": "3",
+            "teach_time": "11:00:00",
+            "teach_time2": "13:00:00",
+            "classroom": "333",
+            "teachers": [
+              "ผศ. ดร. ประพันธ์ ปวรางกูร"
+            ],
+            "limit": "-",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036046",
+    "name_th": "สหกิจศึกษา",
+    "name_en": "COOPERATIVE EDUCATION",
+    "credit": "6",
+    "credit_str": "6(0-35-0)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": null,
+            "teachers": [
+              "อ. วารุนี บัววิรัตน์"
+            ],
+            "limit": "11",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": null,
+            "teachers": [
+              "อ. วารุนี บัววิรัตน์"
+            ],
+            "limit": "18",
+            "count": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036047",
+    "name_th": "สหกิจศึกษาต่างประเทศ",
+    "name_en": "OVERSEA COOPERATIVE EDUCATION",
+    "credit": "6",
+    "credit_str": "6(0-35-0)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": null,
+            "teachers": [
+              "อ. วารุนี บัววิรัตน์"
+            ],
+            "limit": "11",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": null,
+            "teachers": [],
+            "limit": "18",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036086",
+    "name_th": "หลักปรัชญาแห่งวิทยาศาสตร์",
+    "name_en": "PHILOSOPHY OF SCIENCE",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "403",
+            "teachers": [
+              "อ. ตฤณภพ บุญเส็ง",
+              "รศ. ดร. อมตะ อนันต์พินิจวัฒนา"
+            ],
+            "limit": "35",
+            "count": 6
+          }
+        ]
+      },
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "405",
+            "teachers": [
+              "อ. ตฤณภพ บุญเส็ง",
+              "รศ. ดร. อมตะ อนันต์พินิจวัฒนา"
+            ],
+            "limit": "10",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "403",
+            "teachers": [
+              "อ. ตฤณภพ บุญเส็ง",
+              "รศ. ดร. อมตะ อนันต์พินิจวัฒนา"
+            ],
+            "limit": "35",
+            "count": 9
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "405",
+            "teachers": [
+              "อ. ตฤณภพ บุญเส็ง",
+              "รศ. ดร. อมตะ อนันต์พินิจวัฒนา"
+            ],
+            "limit": "18",
+            "count": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036088",
+    "name_th": "การคิดอย่างสร้างสรรค์",
+    "name_en": "CREATIVE THINKING",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "HM-306",
+            "teachers": [
+              "อ. ญุตานี ศัลยพงษ์",
+              "รศ. ดร. อมตะ อนันต์พินิจวัฒนา"
+            ],
+            "limit": "12",
+            "count": 11
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "405",
+            "teachers": [
+              "อ. พัฒน์ ภัทรพงศ์มณี",
+              "รศ. ดร. อมตะ อนันต์พินิจวัฒนา"
+            ],
+            "limit": "18",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036115",
+    "name_th": "ความมั่นคงของระบบสารสนเทศ",
+    "name_en": "INFORMATION SYSTEM SECURITY",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "M 22",
+            "teachers": [
+              "ผศ. ดร. สุเมธ ประภาวัต",
+              "ผศ. ดร. ประพันธ์ ปวรางกูร"
+            ],
+            "limit": "15",
+            "count": "เต็ม/Full"
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "M 22",
+            "teachers": [
+              "ผศ. ดร. สุเมธ ประภาวัต",
+              "ผศ. ดร. ประพันธ์ ปวรางกูร"
+            ],
+            "limit": "25",
+            "count": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036146",
+    "name_th": "โครงงานทางด้านเทคโนโลยีสารสนเทศเชิงธุรกิจ 2",
+    "name_en": "PROJECT IN BUSINESS INFORMATION TECNOLOGY 2",
+    "credit": "3",
+    "credit_str": "3(0-9-0)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": null,
+            "teachers": [
+              "ผศ. ดร. บุญประเสริฐ สุรักษ์รัตนสกุล"
+            ],
+            "limit": "15",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": null,
+            "teachers": [
+              "ผศ. ดร. บุญประเสริฐ สุรักษ์รัตนสกุล"
+            ],
+            "limit": "-",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": null,
+            "teachers": [
+              "ผศ. ดร. บุญประเสริฐ สุรักษ์รัตนสกุล"
+            ],
+            "limit": "25",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036147",
+    "name_th": "สหกิจศึกษา",
+    "name_en": "COOPERATIVE EDUCATION",
+    "credit": "6",
+    "credit_str": "6(0-35-0)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": null,
+            "teachers": [
+              "ผศ. ดร. อนันตพัฒน์ อนันตชัย",
+              "ผศ. ดร. บุญประเสริฐ สุรักษ์รัตนสกุล"
+            ],
+            "limit": "15",
+            "count": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036148",
+    "name_th": "สหกิจศึกษาต่างประเทศ",
+    "name_en": "OVERSEA COOPERATIVE EDUCATION",
+    "credit": "6",
+    "credit_str": "6(0-35-0)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "0",
+            "teach_time": "00:00:00",
+            "teach_time2": "00:00:00",
+            "classroom": null,
+            "teachers": [
+              "ผศ. ดร. อนันตพัฒน์ อนันตชัย",
+              "ผศ. ดร. บุญประเสริฐ สุรักษ์รัตนสกุล"
+            ],
+            "limit": "15",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "14026421",
+    "name_th": "หัวข้อเฉพาะทางบริหารธุรกิจอุตสาหกรรม 1",
+    "name_en": "SELECTED TOPIC IN INDUSTRIAL BUSINESS 1",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "6",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "KBS -104",
+            "teachers": [
+              "รศ. ดร. ภูริศ ศรสรุทร์"
+            ],
+            "limit": "80",
+            "count": 48
+          },
+          {
+            "section": "2",
+            "teach_day": "6",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "KBS -104",
+            "teachers": [
+              "รศ. ดร. ภูริศ ศรสรุทร์"
+            ],
+            "limit": "80",
+            "count": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96641003",
+    "name_th": "กีฬาและนันทนาการ",
+    "name_en": "SPORTS AND RECREATIONAL ACTIVITIES",
+    "credit": "1",
+    "credit_str": "1(0-2-1)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "5",
+            "teach_time": "16:30:00",
+            "teach_time2": "18:30:00",
+            "classroom": null,
+            "teachers": [
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "1",
+            "count": "เต็ม/Full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96642015",
+    "name_th": "CREATIVE THINKING AND INNOVATION",
+    "name_en": "CREATIVE THINKING AND INNOVATION",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "405",
+            "teachers": [
+              "อ. พัฒน์ ภัทรพงศ์มณี",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "35",
+            "count": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96642033",
+    "name_th": "กฎหมายสำหรับคนรุนใหม่",
+    "name_en": "LAW FOR NEW GENERATION",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "405",
+            "teachers": [
+              "ผศ.ดร. นิสิต อินทมาโน",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "35",
+            "count": 15
+          }
+        ]
+      },
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "403",
+            "teachers": [
+              "Dr. Bruce Edward",
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "35",
+            "count": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96642111",
+    "name_th": "FUN WITH CODING",
+    "name_en": "FUN WITH CODING",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4",
+      "0"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "901",
+            "teach_day": "1",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": null,
+            "teachers": [
+              "รศ. ดร. รวิภัทร ลาภเจริญสุข"
+            ],
+            "limit": "40",
+            "count": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96642114",
+    "name_th": "SMART FARMING",
+    "name_en": "SMART FARMING",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "976",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "403",
+            "teachers": [
+              "Aj. Timothy Boundy",
+              "รศ. ดร. อมตะ อนันต์พินิจวัฒนา"
+            ],
+            "limit": "35",
+            "count": 17
+          }
+        ]
+      },
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "501",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "316",
+            "teachers": [
+              "Aj. Timothy Boundy",
+              "รศ. ดร. อมตะ อนันต์พินิจวัฒนา"
+            ],
+            "limit": "35",
+            "count": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96642138",
+    "name_th": "MEDITATION FOR LIFE DEVELOPMENT",
+    "name_en": "MEDITATION FOR LIFE DEVELOPMENT",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "101",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "C-101",
+            "teachers": [
+              "ผศ. ดร. กันต์กนิษฐ์ ขวัญพฤกษ์"
+            ],
+            "limit": "60",
+            "count": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96642142",
+    "name_th": "PSYCHOLOGY IN COMMUNICATION",
+    "name_en": "PSYCHOLOGY IN COMMUNICATION",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "751",
+            "teach_day": "4",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "IC 06",
+            "teachers": [
+              "อ. Nathan John",
+              "รศ. ดร. อมตะ อนันต์พินิจวัฒนา"
+            ],
+            "limit": "35",
+            "count": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96643006",
+    "name_th": "MODERN MANAGEMENT AND LEADERSHIP",
+    "name_en": "MODERN MANAGEMENT AND LEADERSHIP",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "405",
+            "teachers": [
+              "ดร. ศิรวิทย์ ศิริรักษ์",
+              "รศ. ดร. อมตะ อนันต์พินิจวัฒนา"
+            ],
+            "limit": "35",
+            "count": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96643023",
+    "name_th": "TECHNOPRENEURS",
+    "name_en": "TECHNOPRENEURS",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2566,
+        "semester": 2,
+        "sections": [
+          {
+            "section": "102",
+            "teach_day": "5",
+            "teach_time": "16:30:00",
+            "teach_time2": "19:30:00",
+            "classroom": "E12-605",
+            "teachers": [
+              "อ. พุทธิพงษ์ อนันตโสภณ",
+              "รศ. ดร. อมตะ อนันต์พินิจวัฒนา"
+            ],
+            "limit": "45",
+            "count": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96643029",
+    "name_th": "DIGITAL ECONOMY",
+    "name_en": "DIGITAL ECONOMY",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2567,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "501",
+            "teach_day": "5",
+            "teach_time": "09:00:00",
+            "teach_time2": "12:00:00",
+            "classroom": "315",
+            "teachers": [
+              "ดร. NAVIDREZA AHADI",
+              "รศ. ดร. อมตะ อนันต์พินิจวัฒนา"
+            ],
+            "limit": "35",
+            "count": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "96644053",
+    "name_th": "FUNDAMENTAL CHINESE FOR LISTENING AND SPEAKING",
+    "name_en": "FUNDAMENTAL CHINESE FOR LISTENING AND SPEAKING",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "4"
+    ],
+    "offerings": [
+      {
+        "year": 2569,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "601",
+            "teach_day": "5",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "403",
+            "teachers": [
+              "นางสาว WANG WEI - CHIH"
+            ],
+            "limit": "35",
+            "count": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036013",
+    "name_th": "เว็บและเทคโนโลยีสื่อประสม",
+    "name_en": "WEB AND MULTIMEDIA TECHNOLOGY",
+    "credit": "3",
+    "credit_str": "3(2-2-5)",
+    "student_years": [
+      "5"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "2",
+            "teach_time": "13:00:00",
+            "teach_time2": "15:00:00",
+            "classroom": "Lab 428",
+            "teachers": [
+              "อาจารย์ สัญชัย น้อยจันทร์",
+              "ผศ. ดร. ธราวิเชษฐ์ ธิติจรูญโรจน์"
+            ],
+            "limit": "-",
+            "count": 0
+          },
+          {
+            "section": "2",
+            "teach_day": "2",
+            "teach_time": "15:00:00",
+            "teach_time2": "17:00:00",
+            "classroom": "Lab 428",
+            "teachers": [
+              "อาจารย์ สัญชัย น้อยจันทร์",
+              "ผศ. ดร. ธราวิเชษฐ์ ธิติจรูญโรจน์"
+            ],
+            "limit": "-",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject_id": "06036024",
+    "name_th": "การวิเคราะหืและออกแบบระบบสารสนเทศทางธุรกิจ",
+    "name_en": "BUSINESS INFORMATION SYSTEM ANALYSIS AND DESIGN",
+    "credit": "3",
+    "credit_str": "3(3-0-6)",
+    "student_years": [
+      "5"
+    ],
+    "offerings": [
+      {
+        "year": 2568,
+        "semester": 1,
+        "sections": [
+          {
+            "section": "1",
+            "teach_day": "3",
+            "teach_time": "13:00:00",
+            "teach_time2": "16:00:00",
+            "classroom": "M 04",
+            "teachers": [
+              "ผศ. ดร. พัฒนพงษ์ ฉันทมิตรโอภาส"
+            ],
+            "limit": "-",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  }
+]

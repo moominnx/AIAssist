@@ -1,0 +1,1015 @@
+{
+  "program_info": {
+    "name_th": "วิทยาศาสตรบัณฑิต (สาขาวิชาเทคโนโลยีปัญญาประดิษฐ์)",
+    "name_en": "Bachelor of Science (Artificial Intelligence Technology)",
+    "degree_th": "วท.บ. (เทคโนโลยีปัญญาประดิษฐ์)",
+    "degree_en": "B.Sc. (Artificial Intelligence Technology)",
+    "major_th": "เทคโนโลยีปัญญาประดิษฐ์",
+    "major_en": "Artificial Intelligence Technology",
+    "total_credits": "120",
+    "program_type": "ปริญญาตรี",
+    "duration_years": "4",
+    "curriculum_year": null,
+    "institution": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+    "faculty": "คณะเทคโนโลยีสารสนเทศ"
+  },
+  "curriculum_structure": {
+    "general_education": {
+      "credits": null,
+      "subcategories": []
+    },
+    "specific_courses": {
+      "credits": 90,
+      "subcategories": [
+        {
+          "name": "กลุ่มวิชาพื้นฐานคณิตศาสตร์และสถิติ",
+          "credits": 15
+        },
+        {
+          "name": "กลุ่มวิชาพื้นฐานวิทยาศาสตร์คอมพิวเตอร์",
+          "credits": 15
+        },
+        {
+          "name": "กลุ่มวิชาพื้นฐานปัญญาประดิษฐ์",
+          "credits": 33
+        },
+        {
+          "name": "กลุ่มวิชาเลือกเทคโนโลยีปัญญาประดิษฐ์เฉพาะทาง",
+          "credits": 0
+        },
+        {
+          "name": "กลุ่มวิชาโครงงานและสัมมนา",
+          "credits": 0
+        }
+      ]
+    },
+    "elective_courses": {
+      "credits": null,
+      "description": ""
+    },
+    "free_electives": {
+      "credits": null,
+      "description": ""
+    }
+  },
+  "courses": [
+    {
+      "code": "06046400",
+      "name_th": "แคลคูลัส 1",
+      "name_en": "CALCULUS 1",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046401",
+      "name_th": "แคลคูลัส 2",
+      "name_en": "CALCULUS 2",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [
+        {
+          "code": "06046400",
+          "name_th": "แคลคูลัส 1",
+          "name_en": "CALCULUS 1 Functions of several variables"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06046402",
+      "name_th": "พีชคณิตเชิงเส้น",
+      "name_en": "LINEAR ALGEBRA",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066000",
+      "name_th": "คณิตศาสตร์ไม่ต่อเนื่อง",
+      "name_en": "DISCRETE MATHEMATICS",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066001",
+      "name_th": "ความน่าจะเป็นและสถิติ",
+      "name_en": "PROBABILITY AND STATISTICS",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066303",
+      "name_th": "การแก้ปัญหาและการโปรแกรมคอมพิวเตอร์",
+      "name_en": "PROBLEM SOLVING AND COMPUTER PROGRAMMING",
+      "credits": "3(2-2-5)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046403",
+      "name_th": "การโปรแกรมคอมพิวเตอร์",
+      "name_en": "COMPUTER PROGRAMMING",
+      "credits": "3(2-2-5)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066301",
+      "name_th": "โครงสร้างข้อมูลและอัลกอริทึม",
+      "name_en": "DATA STRUCTURES AND ALGORITHMS",
+      "credits": "3(2-2-5)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066300",
+      "name_th": "แนวคิดระบบฐานข้อมูล",
+      "name_en": "DATABASE SYSTEM CONCEPTS",
+      "credits": "3(2-2-5)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046404",
+      "name_th": "พื้นฐานของระบบสมองกลฝังตัว",
+      "name_en": "FUNDAMENTAL OF EMBEDDED SYSTEM",
+      "credits": "3(2-2-5)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046405",
+      "name_th": "การเรียนรู้ของเครื่องเชิงความน่าจะเป็น",
+      "name_en": "PROBABILISTIC MACHINE LEARNING",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [
+        {
+          "code": "06066001",
+          "name_th": "ความหน้าจะเป็น",
+          "name_en": "Probability"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06046406",
+      "name_th": "พื้นฐานการเรียนรู้เชิงลึก",
+      "name_en": "FUNDAMENTALS OF DEEP LEARNING",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [
+        {
+          "code": "06046401",
+          "name_th": "แคลคูลัส 2",
+          "name_en": "CALCULUS 2"
+        },
+        {
+          "code": "06046402",
+          "name_th": "พีชคณิตเชิงเส้น",
+          "name_en": "LINEAR ALGEBRA"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06046407",
+      "name_th": "พื้นฐานวิทยาการข้อมูล",
+      "name_en": "FUNDAMENTALS OF DATA SCIENCE",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046408",
+      "name_th": "การแสดงข้อมูลด้วยแผนภาพ",
+      "name_en": "DATA VISUALIZATION",
+      "credits": "3(2-2-5)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046409",
+      "name_th": "คอมพิวเตอร์วิทัศน์เบื้องต้น",
+      "name_en": "INTRODUCTION TO COMPUTER VISION",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046410",
+      "name_th": "การประมวลผลภาษาธรรมชาติเบื้องต้น",
+      "name_en": "INTRODUCTION TO NATURAL LANGUAGE PROCESSING",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046411",
+      "name_th": "การวิเคราะห์และเพิ่มประสิทธิภาพเครือข่าย",
+      "name_en": "NETWORK ANALYSIS AND OPTIMIZATION",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046412",
+      "name_th": "การเพิ่มประสิทธิภาพโครงข่ายประสาทเทียม",
+      "name_en": "NEURAL NETWORK OPTIMIZATION",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046413",
+      "name_th": "ปัญญาประดิษฐ์และอินเทอร์เน็ตประสานสรรพสิ่ง",
+      "name_en": "ARTIFICIAL INTELLIGENT AND INTERNET OF THING",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046414",
+      "name_th": "การประมวลผลภาษาธรรมชาติด้วยการเรียนรู้เชิงลึก",
+      "name_en": "NATURAL LANGUAGE PROCESSING WITH DEEP LEARNING",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046415",
+      "name_th": "การประมวลผลสัญญาณ",
+      "name_en": "SIGNAL PROCESSING",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046416",
+      "name_th": "การเรียนรู้เชิงลึกสำหรับคอมพิวเตอร์วิทัศน์",
+      "name_en": "DEEP LEARNING FOR COMPUTER VISION",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046417",
+      "name_th": "การประมวลผลภาพ",
+      "name_en": "IMAGE PROCESSING",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046418",
+      "name_th": "การระบุตำแหน่งและการสร้างแผนที่ของหุ่นยนต์",
+      "name_en": "ROBOT LOCALIZATION AND MAPPING",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046419",
+      "name_th": "การเรียนรู้แบบเสริมกำลัง",
+      "name_en": "REINFORCEMENT LEARNING",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046420",
+      "name_th": "ระบบให้คำแนะนำอัจฉริยะ",
+      "name_en": "INTELLIGENT RECOMMENDATION SYSTEMS",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046421",
+      "name_th": "การประมวลผลภาษาธรรมชาติขั้นสูง",
+      "name_en": "ADVANCED NATURAL LANGUAGE PROCESSING",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046422",
+      "name_th": "จริยธรรมด้านปัญญาประดิษฐ์",
+      "name_en": "ARTIFICIAL INTELLIGIENCE ETHICS",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046423",
+      "name_th": "การออกแบบบริการด้านปัญญาประดิษฐ์",
+      "name_en": "ARTIFICIAL INTELLIGIENCE SERVICE DESIGN",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046424",
+      "name_th": "ตรรกะและการแทนความรู้",
+      "name_en": "LOGIC AND KNOWLEDGE REPRESENTATION",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046425",
+      "name_th": "โมเดลแบบกำเนิด",
+      "name_en": "Generative model",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046430",
+      "name_th": "หัวข้อคัดสรรด้านปัญญาประดิษฐ์ 1",
+      "name_en": "SELECTED TOPICS IN ARTIFICIAL INTELLIGENCE 1",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046431",
+      "name_th": "หัวข้อคัดสรรด้านปัญญาประดิษฐ์ 2",
+      "name_en": "SELECTED TOPICS IN ARTIFICIAL INTELLIGENCE 2",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046432",
+      "name_th": "หัวข้อคัดสรรด้านปัญญาประดิษฐ์ 3",
+      "name_en": "SELECTED TOPICS IN ARTIFICIAL INTELLIGENCE 3",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046433",
+      "name_th": "หัวข้อคัดสรรด้านปัญญาประดิษฐ์ 4",
+      "name_en": "SELECTED TOPICS IN ARTIFICIAL INTELLIGENCE 4",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046434",
+      "name_th": "หัวข้อคัดสรรด้านปัญญาประดิษฐ์ 5",
+      "name_en": "SELECTED TOPICS IN ARTIFICIAL INTELLIGENCE 5",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046435",
+      "name_th": "หัวข้อคัดสรรด้านปัญญาประดิษฐ์ 6",
+      "name_en": "SELECTED TOPICS IN ARTIFICIAL INTELLIGENCE 6",
+      "credits": "3(3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046440",
+      "name_th": "วิชาสัมมนาปัญญาประดิษฐ์",
+      "name_en": "SEMINAR IN ARTIFICIAL INTELLIGENCE 1",
+      "credits": "3(2-2-5)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046441",
+      "name_th": "โครงงานเทคโนโลยีปัญญาประดิษฐ์ 1",
+      "name_en": "PROJECT IN ARTIFICIAL INTELLIGENCE TECHNOLOGY 1",
+      "credits": "3(0-9-0)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046442",
+      "name_th": "โครงงานเทคโนโลยีปัญญาประดิษฐ์ 2",
+      "name_en": "PROJECT IN ARTIFICIAL INTELLIGENCE TECHNOLOGY 2",
+      "credits": "3(0-9-0)",
+      "category": "วิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046443",
+      "name_th": "สหกิจศึกษาทางเทคโนโลยีปัญญาประดิษฐ์",
+      "name_en": "COOPERATIVE EDUCATION IN ARTIFICIAL INTELLIGENCE",
+      "credits": "6(0-45-0)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06046444",
+      "name_th": "สหกิจศึกษาต่างประเทศทางเทคโนโลยีปัญญาประดิษฐ์",
+      "name_en": "OVERSEA COOPERATIVE EDUCATION ARTIFICIAL INTELLIGENCE",
+      "credits": "6(0-45-0)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90641008",
+      "name_th": "พื้นฐานทักษะการสื่อสารภาษาอังกฤษ",
+      "name_en": "INTRODUCTION TO ENGLISH COMMUNICATION SKILLS",
+      "credits": "0 (0-0-45)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90641007",
+      "name_th": "พลเมืองดิจิทัล",
+      "name_en": "DIGITAL CITIZEN",
+      "credits": "3 (3-0-6)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90641004",
+      "name_th": "โครงงานกลุ่ม 1",
+      "name_en": "TEAM-PROJECT 1",
+      "credits": "1 (0-2-1)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "9064xxxx",
+      "name_th": "วิชาเลือกหมวดวิชาศึกษาทั่วไป",
+      "name_en": "GENERAL EDUCATION COURSES",
+      "credits": "3 (x-x-x)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "เลือก",
+      "year": 1,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90641009",
+      "name_th": "ทักษะการสื่อสารภาษาอังกฤษระหว่างวัฒนธรรม 1",
+      "name_en": "INTERCULTURAL COMMUNICATION SKILLS IN ENGLISH 1",
+      "credits": "3 (3-0-6)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 2,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90641010",
+      "name_th": "ทักษะการสื่อสารภาษาอังกฤษระหว่างวัฒนธรรม 2",
+      "name_en": "INTERCULTURAL COMMUNICATION SKILLS IN ENGLISH 2",
+      "credits": "3 (3-0-6)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 2,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90641005",
+      "name_th": "โครงงานกลุ่ม 2",
+      "name_en": "TEAM-PROJECT 2",
+      "credits": "1 (0-2-1)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 2,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90642012",
+      "name_th": "กระบวนการคิดเชิงออกแบบ",
+      "name_en": "DESIGN THINKING",
+      "credits": "3 (3-0-6)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 3,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "060464xx",
+      "name_th": "วิชาเลือกเทคโนโลยีปัญญาประดิษฐ์เฉพาะทาง",
+      "name_en": "ELECTIVE IN ARTIFICIAL INTELLIGENCE SPECIALIZATION",
+      "credits": "6 (3-0-6)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": 3,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90641006",
+      "name_th": "โครงงานกลุ่ม 3",
+      "name_en": "TEAM-PROJECT 3",
+      "credits": "1 (0-2-1)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 3,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "xxxxxxxx",
+      "name_th": "วิชาเลือกเสรี 1",
+      "name_en": "FREE ELECTIVE COURSE 1",
+      "credits": "3 (x-x-x)",
+      "category": "วิชาเลือกเสรี",
+      "type": "เลือก",
+      "year": 3,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90644xxx",
+      "name_th": "วิชาเลือกด้านภาษาและการสื่อสาร",
+      "name_en": "LANGUAGE AND COMMUNICATION COURSES",
+      "credits": "3 (x-x-x)",
+      "category": "วิชาศึกษาทั่วไป",
+      "type": "เลือก",
+      "year": 4,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    }
+  ],
+  "academic_plan": [
+    {
+      "year": 1,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "06046400",
+          "name_th": "แคลคูลัส 1",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06046402",
+          "name_th": "พีชคณิตเชิงเส้น",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06066000",
+          "name_th": "คณิตศาสตร์ไม่ต่อเนื่อง",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06066001",
+          "name_th": "ความน่าจะเป็นและสถิติ",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06066303",
+          "name_th": "การแก้ปัญหาและการโปรแกรมคอมพิวเตอร์",
+          "credits": "3 (2-2-5)"
+        },
+        {
+          "code": "90641008",
+          "name_th": "พื้นฐานทักษะการสื่อสารภาษาอังกฤษ",
+          "credits": "0 (0-0-45)"
+        }
+      ],
+      "total_credits": 15
+    },
+    {
+      "year": 1,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "06046401",
+          "name_th": "แคลคูลัส 2",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06046403",
+          "name_th": "การโปรแกรมคอมพิวเตอร์",
+          "credits": "3 (2-2-5)"
+        },
+        {
+          "code": "06066301",
+          "name_th": "โครงสร้างข้อมูลและอัลกอริทึม",
+          "credits": "3 (2-2-5)"
+        },
+        {
+          "code": "06046404",
+          "name_th": "พื้นฐานของระบบสมองกลฝังตัว",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "90641007",
+          "name_th": "พลเมืองดิจิทัล",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "90641004",
+          "name_th": "โครงงานกลุ่ม 1",
+          "credits": "1 (0-2-1)"
+        },
+        {
+          "code": "9064xxxx",
+          "name_th": "วิชาเลือกหมวดวิชาศึกษาทั่วไป",
+          "credits": "3 (x-x-x)"
+        }
+      ],
+      "total_credits": 19
+    },
+    {
+      "year": 2,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "06066300",
+          "name_th": "แนวคิดระบบฐานข้อมูล",
+          "credits": "3 (2-2-5)"
+        },
+        {
+          "code": "06046405",
+          "name_th": "การเรียนรู้ของเครื่องเชิงความน่าจะเป็น",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06046406",
+          "name_th": "พื้นฐานการเรียนรู้เชิงลึก",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06046409",
+          "name_th": "คอมพิวเตอร์วิทัศน์เบื้องต้น",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06046413",
+          "name_th": "ปัญญาประดิษฐ์และอินเทอร์เน็ตประสานสรรพสิ่ง",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "90641009",
+          "name_th": "ทักษะการสื่อสารภาษาอังกฤษระหว่างวัฒนธรรม 1",
+          "credits": "3 (3-0-6)"
+        }
+      ],
+      "total_credits": 18
+    },
+    {
+      "year": 2,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "06046407",
+          "name_th": "พื้นฐานวิทยาการข้อมูล",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06046408",
+          "name_th": "การแสดงข้อมูลด้วยแผนภาพ",
+          "credits": "3 (2-2-5)"
+        },
+        {
+          "code": "06046410",
+          "name_th": "การประมวลผลภาษาธรรมชาติเบื้องต้น",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06046412",
+          "name_th": "การเพิ่มประสิทธิภาพโครงข่ายประสาทเทียม",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06046411",
+          "name_th": "การวิเคราะห์และเพิ่มประสิทธิภาพเครือข่าย",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "90641010",
+          "name_th": "ทักษะการสื่อสารภาษาอังกฤษระหว่างวัฒนธรรม 2",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "90641005",
+          "name_th": "โครงงานกลุ่ม 2",
+          "credits": "1 (0-2-1)"
+        }
+      ],
+      "total_credits": 19
+    },
+    {
+      "year": 3,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "06046415",
+          "name_th": "การประมวลผลสัญญาณ",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "06046414",
+          "name_th": "การประมวลผลภาษาธรรมชาติด้วยการเรียนรู้อย่างเชิงลึก",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "90642012",
+          "name_th": "กระบวนการคิดเชิงออกแบบ",
+          "credits": "3 (3-0-6)"
+        },
+        {
+          "code": "060464xx",
+          "name_th": "วิชาเลือกเทคโนโลยีปัญญาประดิษฐ์เฉพาะทาง",
+          "credits": "6 (3-0-6)"
+        },
+        {
+          "code": "06046440",
+          "name_th": "วิชาสัมมนาปัญญาประดิษฐ์",
+          "credits": "3 (2-2-5)"
+        }
+      ],
+      "total_credits": 18
+    },
+    {
+      "year": 3,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "060464xx",
+          "name_th": "วิชาเลือกเทคโนโลยีปัญญาประดิษฐ์เฉพาะทาง",
+          "credits": "6 (3-0-6)"
+        },
+        {
+          "code": "06046441",
+          "name_th": "โครงงานเทคโนโลยีปัญญาประดิษฐ์ 1",
+          "credits": "3 (0-9-0)"
+        },
+        {
+          "code": "90641006",
+          "name_th": "โครงงานกลุ่ม 3",
+          "credits": "1 (0-2-1)"
+        },
+        {
+          "code": "xxxxxxxx",
+          "name_th": "วิชาเลือกเสรี 1",
+          "credits": "3 (x-x-x)"
+        }
+      ],
+      "total_credits": 13
+    },
+    {
+      "year": 4,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "06046442",
+          "name_th": "โครงงานเทคโนโลยีปัญญาประดิษฐ์ 2",
+          "credits": "3 (0-9-0)"
+        },
+        {
+          "code": "9064xxxx",
+          "name_th": "วิชาเลือกหมวดวิชาศึกษาทั่วไป",
+          "credits": "3 (x-x-x)"
+        },
+        {
+          "code": "90644xxx",
+          "name_th": "วิชาเลือกด้านภาษาและการสื่อสาร",
+          "credits": "3 (x-x-x)"
+        },
+        {
+          "code": "xxxxxxxx",
+          "name_th": "วิชาเลือกเสรี 2",
+          "credits": "3 (x-x-x)"
+        }
+      ],
+      "total_credits": 12
+    },
+    {
+      "year": 4,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "06046443",
+          "name_th": "สหกิจศึกษาทางเทคโนโลยีปัญญาประดิษฐ์",
+          "credits": "6 (0-45-0)"
+        },
+        {
+          "code": "06046444",
+          "name_th": "สหกิจศึกษาต่างประเทศทางเทคโนโลยีปัญญาประดิษฐ์",
+          "credits": "6 (0-45-0)"
+        }
+      ],
+      "total_credits": 6
+    }
+  ],
+  "career_opportunities": [],
+  "program_outcomes": [
+    "1. ความรู้: 1.1 สามารถปรับใช้ความรู้ด้านคณิตศาสตร์ สถิติ ความน่าจะเป็น กราฟ และพีชคณิตเชิงเส้น ในการพัฒนางานด้านปัญญาประดิษฐ์ได้",
+    "1.2 สามารถจดจำ และแก้ปัญหาโดยใช้หลักการความรู้ด้านโครงสร้างข้อมูล การคิดเชิงคำนวณ อัลกอริทึม และการเขียนโปรแกรมได้",
+    "1.3 สามารถอธิบายหลักการและทฤษฎีด้านปัญญาประดิษฐ์และการเรียนรู้ของเครื่อง",
+    "1.4 สามารถวิเคราะห์และออกแบบรูปแบบการจัดเก็บและประมวลผลข้อมูลขนาดใหญ่ เพื่อนำไปสร้างแบบจำลองงานด้านปัญญาประดิษฐ์ได้",
+    "1.5 สามารถจดจำและนำความรู้ด้านการประมวลผลภาษาธรรมชาติ คอมพิวเตอร์วิทัศน์ อินเทอร์เน็ตประสานสรรพสิ่ง และการเรียนรู้เชิงลึกไปปรับใช้งานได้",
+    "2. ทักษะ: 2.1 สามารถอธิบาย ตีความปัญหา และเขียนโปรแกรมเพื่อแก้ปัญหาโดยใช้เทคโนโลยีปัญญาประดิษฐ์ได้",
+    "2.2 สามารถใช้เครื่องมือดิจิทัลที่เหมาะสมกับโจทย์ต่างๆ ได้",
+    "2.3 มีทักษะในการค้นคว้าความรู้ใหม่ด้วยตนเอง และนำเสนอความคิดริเริ่มใหม่ๆ เพื่อปรับปรุงพัฒนางานให้ดีขึ้น",
+    "2.4 สามารถแสดงออกโดยใช้เหตุผล สื่อสารกับผู้อื่น และทำงานร่วมกับผู้อื่นเป็นทีมได้",
+    "3. จริยธรรม: 3.1 สามารถอธิบาย และหลีกเลี่ยงการกระทำที่ขัดต่อหลักจริยธรรมปัญญาประดิษฐ์ที่เกี่ยวข้องกับความปลอดภัย ความโปร่งใส ความยุติธรรม และกฎหมายได้",
+    "3.2 สามารถอธิบาย และหลีกเลี่ยงการกระทำที่ขัดต่อหลักจริยธรรมเกี่ยวกับข้อมูลและการรักษาความลับส่วนบุคคลได้",
+    "3.3 สามารถอธิบาย และหลีกเลี่ยงการกระทำที่ขัดต่อหลักจริยธรรมด้านทรัพย์สินทางปัญญา",
+    "3.4 สามารถอธิบายผลกระทบของระบบปัญญาประดิษฐ์หรือความลำเอียงของระบบปัญญาประดิษฐ์ ต่อสังคม เศรษฐกิจ และวิถีชีวิตได้",
+    "4. ลักษณะบุคคล: 4.1 สามารถค้นคว้าและใช้งานเครื่องมือด้าน ICT และ AI ได้ด้วยตนเอง",
+    "4.2 มีความคิดเชิงตรรกะ รอบคอบ ละเอียดถี่ถ้วนในการทำงาน",
+    "4.3 สามารถใช้ความคิดอย่างมีวิจารณญาณ มีความรับผิดชอบต่อตนเองและสังคม",
+    "4.4 กล้าคิด กล้าถาม กล้าแสดงออก มีการสื่อสารที่ดี",
+    "4.5 สามารถทำงานร่วมกับผู้อื่น และยอมรับความแตกต่างได้",
+    "4.6 มีความอดทน ไม่ย่อท้อในการทำงาน"
+  ],
+  "special_tracks": [],
+  "program": "AIT"
+}

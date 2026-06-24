@@ -1,0 +1,1760 @@
+{
+  "program_info": {
+    "name_th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาเทคโนโลยีสารสนเทศ",
+    "name_en": "Bachelor of Science Program in Information Technology",
+    "degree_th": "วิทยาศาสตรบัณฑิต (เทคโนโลยีสารสนเทศ)",
+    "degree_en": "Bachelor of Science (Information Technology)",
+    "major_th": "เทคโนโลยีสารสนเทศ",
+    "major_en": "Information Technology",
+    "total_credits": 129,
+    "program_type": "ปริญญาตรี",
+    "duration_years": 4,
+    "curriculum_year": "2565",
+    "institution": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+    "faculty": "คณะเทคโนโลยีสารสนเทศ"
+  },
+  "curriculum_structure": {
+    "general_education": {
+      "credits": 30,
+      "subcategories": [
+        {
+          "name": "กลุ่มวิชาพื้นฐาน",
+          "credits": 6
+        },
+        {
+          "name": "กลุ่มวิชาด้านภาษาและการสื่อสาร",
+          "credits": 9
+        },
+        {
+          "name": "กลุ่มวิชาตามเกณฑ์ของคณะ",
+          "credits": 9
+        },
+        {
+          "name": "กลุ่มวิชาเลือกหมวดวิชาศึกษาทั่วไป",
+          "credits": 6
+        }
+      ]
+    },
+    "specific_courses": {
+      "credits": 93,
+      "subcategories": [
+        {
+          "name": "กลุ่มวิชาแกน",
+          "credits": 12
+        },
+        {
+          "name": "กลุ่มวิชาเฉพาะด้าน",
+          "credits": 57
+        },
+        {
+          "name": "กลุ่มวิชาบังคับเฉพาะสาขา",
+          "credits": 15
+        },
+        {
+          "name": "กลุ่มวิชาเลือกทางเทคโนโลยีสารสนเทศ",
+          "credits": 9
+        },
+        {
+          "name": "กลุ่มวิชาการศึกษาทางเลือก",
+          "credits": 6
+        }
+      ]
+    },
+    "elective_courses": {
+      "credits": null,
+      "description": ""
+    },
+    "free_electives": {
+      "credits": 6,
+      "description": "เลือกเรียนจากรายวิชาที่เปิดสอนในสถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง จำนวนไม่น้อยกว่า 6 หน่วยกิต"
+    }
+  },
+  "courses": [
+    {
+      "code": "90641001",
+      "name_th": "โรงเรียนสร้างเสน่ห์",
+      "name_en": "CHARM SCHOOL",
+      "credits": "2(1-2-3)",
+      "category": "หมวดวิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90641002",
+      "name_th": "ความฉลาดทางดิจิทัล",
+      "name_en": "DIGITAL INTELLIGENCE QUOTIENT",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90641003",
+      "name_th": "กีฬาและนันทนาการ",
+      "name_en": "SPORTS AND RECREATIONAL ACTIVITIES",
+      "credits": "1(0-3-2)",
+      "category": "หมวดวิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90644007",
+      "name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "name_en": "FOUNDATION ENGLISH 1",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90644008",
+      "name_th": "ภาษาอังกฤษพื้นฐาน 2",
+      "name_en": "FOUNDATION ENGLISH 2",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90644xxx",
+      "name_th": "วิชาเลือกหมวดภาษาและการสื่อสาร",
+      "name_en": "ELECTIVE COURSE IN LANGUAGE AND COMMUNICATION",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาศึกษาทั่วไป",
+      "type": "เลือก",
+      "year": 3,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90642033",
+      "name_th": "กฎหมายสำหรับคนรุ่นใหม่",
+      "name_en": "LAW FOR NEW GENERATION",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 3,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90643021",
+      "name_th": "ผู้ประกอบการสมัยใหม่",
+      "name_en": "MODERN ENTREPRENEURS",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 4,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "90644042",
+      "name_th": "การสื่อสารและการนำเสนออย่างมืออาชีพ",
+      "name_en": "PROFESSIONAL COMMUNICATION AND PRESENTATION",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาศึกษาทั่วไป",
+      "type": "บังคับ",
+      "year": 3,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "9064xxxx",
+      "name_th": "วิชาเลือกหมวดศึกษาทั่วไป 1",
+      "name_en": "ELECTIVE COURSE IN GENERAL EDUCATION 1",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาศึกษาทั่วไป",
+      "type": "เลือก",
+      "year": 4,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066000",
+      "name_th": "คณิตศาสตร์ไม่ต่อเนื่อง",
+      "name_en": "DISCRETE MATHEMATICS",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 2,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066001",
+      "name_th": "ความน่าจะเป็นและสถิติ",
+      "name_en": "PROBABILITY AND STATISTICS",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016401",
+      "name_th": "คณิตศาสตร์สำหรับเทคโนโลยีสารสนเทศ",
+      "name_en": "MATHEMATICS FOR INFORMATION TECHNOLOGY",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016402",
+      "name_th": "พื้นฐานทางด้านเทคโนโลยีสารสนเทศ",
+      "name_en": "INFORMATION TECHNOLOGY FUNDAMENTALS",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066100",
+      "name_th": "การบริหารโครงการเทคโนโลยีสารสนเทศ",
+      "name_en": "INFORMATION TECHNOLOGY PROJECT MANAGEMENT",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 3,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066101",
+      "name_th": "พื้นฐานทางธุรกิจสำหรับเทคโนโลยีสารสนเทศ",
+      "name_en": "BUSINESS FUNDAMENTALS FOR INFORMATION TECHNOLOGY",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066102",
+      "name_th": "ระบบสารสนเทศเพื่อการจัดการ",
+      "name_en": "MANAGEMENT INFORMATION SYSTEMS",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 3,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016403",
+      "name_th": "เทคโนโลยีสื่อประสม",
+      "name_en": "MULTIMEDIA TECHNOLOGY",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 2,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016404",
+      "name_th": "เทคโนโลยีกลุ่มเมฆ",
+      "name_en": "CLOUD COMPUTING",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 3,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016405",
+      "name_th": "พื้นฐานความมั่นคงปลอดภัยไซเบอร์",
+      "name_en": "CYBERSECURITY FUNDAMENTALS",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 2,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016406",
+      "name_th": "โครงงาน 1",
+      "name_en": "PROJECT 1",
+      "credits": "3(0-9-0)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 4,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016407",
+      "name_th": "โครงงาน 2",
+      "name_en": "PROJECT 2",
+      "credits": "3(0-9-0)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 4,
+      "semester": 2,
+      "prerequisites": [
+        {
+          "code": "06016406",
+          "name_th": "โครงงาน 1",
+          "name_en": "PROJECT 1 Study or research of interesting current topics in information technology"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06066300",
+      "name_th": "แนวคิดระบบฐานข้อมูล",
+      "name_en": "DATABASE SYSTEM CONCEPTS",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 2,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066301",
+      "name_th": "โครงสร้างข้อมูลและอัลกอริทึม",
+      "name_en": "DATA STRUCTURES AND ALGORITHMS",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066302",
+      "name_th": "การเขียนโปรแกรมเว็บพื้นฐาน",
+      "name_en": "FUNDAMENTAL WEB PROGRAMMING",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 2,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066304",
+      "name_th": "การวิเคราะห์และออกแบบระบบสารสนเทศ",
+      "name_en": "INFORMATION SYSTEM ANALYSIS AND DESIGN",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 2,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016408",
+      "name_th": "การสร้างโปรแกรมเชิงวัตถุ",
+      "name_en": "OBJECT-ORIENTED PROGRAMMING",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016409",
+      "name_th": "การประมวลทางกายภาพ",
+      "name_en": "PHYSICAL COMPUTING",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 2,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016410",
+      "name_th": "วิศวกรรมซอฟต์แวร์",
+      "name_en": "SOFTWARE ENGINEERING",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 2,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06066303",
+      "name_th": "การแก้ปัญหาและการโปรแกรมคอมพิวเตอร์",
+      "name_en": "PROBLEM SOLVING AND COMPUTER PROGRAMMING",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016411",
+      "name_th": "ระบบคอมพิวเตอร์เบื้องต้น",
+      "name_en": "INTRODUCTION TO COMPUTER SYSTEMS",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 1,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016412",
+      "name_th": "โครงสร้างระบบคอมพิวเตอร์และระบบปฏิบัติการ",
+      "name_en": "COMPUTER ORGANIZATION AND OPERATING SYSTEM",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 2,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016413",
+      "name_th": "ระบบเครือข่ายเบื้องต้น",
+      "name_en": "INTRODUCTION TO NETWORK SYSTEMS",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 2,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016414",
+      "name_th": "ระบบฐานข้อมูลแบบโนเอสคิวแอล",
+      "name_en": "NOSQL DATABASE SYSTEMS",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 2,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016415",
+      "name_th": "การเขียนโปรแกรมเชิงฟังก์ชัน",
+      "name_en": "FUNCTIONAL PROGRAMMING",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 2,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016416",
+      "name_th": "วิศวกรรมความต้องการ",
+      "name_en": "REQUIREMENT ENGINEERING",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 3,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016417",
+      "name_th": "เครื่องมือและสภาพแวดล้อมสำหรับการพัฒนาซอฟต์แวร์",
+      "name_en": "SOFTWARE DEVELOPMENT TOOLS AND ENVIRONMENTS",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 3,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016418",
+      "name_th": "การพัฒนาเว็บฝั่งเซิร์ฟเวอร์",
+      "name_en": "SERVER-SIDE WEB DEVELOPMENT",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 3,
+      "semester": 1,
+      "prerequisites": [
+        {
+          "code": "06016408",
+          "name_th": "การสร้างโปรแกรมเชิงวัตถ ุ",
+          "name_en": "OBJECT-ORIENTED PROGRAMMING MVC concepts"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06016419",
+      "name_th": "โครงสร้างพื้นฐานเครือข่ายการสื่อสาร",
+      "name_en": "COMMUNICATION NETWORK INFRASTRUCTURE",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 2,
+      "semester": 2,
+      "prerequisites": [
+        {
+          "code": "06016413",
+          "name_th": "ระบบเครือข่ายเบื้องต้น",
+          "name_en": "INTRODUCTION TO NETWORK SYSTEMS"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06016420",
+      "name_th": "ระบบโครงสร้างพื้นฐานและการบริการ",
+      "name_en": "INFRASTRUCTURE SYSTEMS AND SERVICES",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 2,
+      "semester": 2,
+      "prerequisites": [
+        {
+          "code": "06016413",
+          "name_th": "ระบบเครือข่ายเบื้องต้น",
+          "name_en": "INTRODUCTION TO NETWORK SYSTEMS"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06016421",
+      "name_th": "ความมั่นคงปลอดภัยโครงสร้างพื้นฐานทางเทคโนโลยีสารสนเทศ",
+      "name_en": "INFORMATION TECHNOLOGY INFRASTRUCTURE SECURITY",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 3,
+      "semester": 1,
+      "prerequisites": [
+        {
+          "code": "06016413",
+          "name_th": "ระบบเครือข่ายเบื้องต้น",
+          "name_en": "INTRODUCTION TO NETWORK SYSTEMS"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06016422",
+      "name_th": "อินเทอร์เน็ตของสรรพสิ่ง",
+      "name_en": "INTERNET OF THINGS",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 3,
+      "semester": 1,
+      "prerequisites": [
+        {
+          "code": "06016413",
+          "name_th": "ระบบเครือข่ายเบื้องต้น",
+          "name_en": "INTRODUCTION TO NETWORK SYSTEMS"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06016423",
+      "name_th": "การออโตเมชั่นและโครงสร้างพื้นฐานที่สามารถโปรแกรมได้",
+      "name_en": "INFRASTRUCTURE PROGRAMMABILITY AND AUTOMATION",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 3,
+      "semester": 1,
+      "prerequisites": [
+        {
+          "code": "06016413",
+          "name_th": "ระบบเครือข่ายเบื้องต้น",
+          "name_en": "INTRODUCTION TO NETWORK SYSTEMS"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06016424",
+      "name_th": "การออกแบบส่วนต่อประสานกับมนุษย์",
+      "name_en": "HUMAN INTERFACE DESIGN",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 2,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016425",
+      "name_th": "พื้นฐานการออกแบบทัศนศิลป์สำหรับสื่อปฏิสัมพันธ์",
+      "name_en": "VISUAL DESIGN FUNDAMENTALS FOR INTERACTIVE MEDIA",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 2,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016426",
+      "name_th": "คอมพิวเตอร์กราฟิกส์และแอนิเมชัน",
+      "name_en": "COMPUTER GRAPHICS AND ANIMATION",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 3,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016427",
+      "name_th": "การออกแบบและพัฒนาเกมเบื้องต้น",
+      "name_en": "INTRODUCTION TO GAME DESIGN AND DEVELOPMENT",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "บังคับ",
+      "year": 3,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016481",
+      "name_th": "สหกิจศึกษา",
+      "name_en": "COOPERATIVE EDUCATION",
+      "credits": "6(0-36-0)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": 3,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016482",
+      "name_th": "สหกิจศึกษาต่างประเทศ",
+      "name_en": "OVERSEA COOPERATIVE EDUCATION",
+      "credits": "6(0-36-0)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": 3,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016428",
+      "name_th": "การพัฒนาและออกแบบโปรแกรมบริการแบบจุลภาค",
+      "name_en": "MICROSERVICE DESIGN AND DEVELOPMENT",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016429",
+      "name_th": "การพัฒนาเว็บฝั่งไคลเอนต์",
+      "name_en": "CLIENT-SIDE WEB DEVELOPMENT",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [
+        {
+          "code": "06066302",
+          "name_th": "การเขียนโปรแกรมเว็บพื้นฐาน",
+          "name_en": "FUNDAMENTAL WEB PROGRAMMING"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06016430",
+      "name_th": "การพัฒนาคลาวด์แอปพลิเคชัน",
+      "name_en": "CLOUD APPLICATION DEVELOPMENT",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [
+        {
+          "code": "06016404",
+          "name_th": "เทคโนโลยีกลุ่มเมฆ",
+          "name_en": "CLOUD COMPUTING Introduction to Cloud Technology"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06016431",
+      "name_th": "การโปรแกรมอุปกรณ์เคลื่อนที่",
+      "name_en": "MOBILE DEVICE PROGRAMMING",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016432",
+      "name_th": "การทวนสอบและตรวจสอบซอฟต์แวร์",
+      "name_en": "SOFTWARE VERIFICATION AND VALIDATION",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [
+        {
+          "code": "06066304",
+          "name_th": "การวิเคราะห์",
+          "name_en": "INFORMATION SYSTEM ANALYSIS"
+        },
+        {
+          "code": null,
+          "name_th": "ออกแบบระบบ",
+          "name_en": "DESIGN"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06016433",
+      "name_th": "การทดสอบอัตโนมัติในรูปแบบอไจล์",
+      "name_en": "AUTOMATION TESTING IN AGILE",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016434",
+      "name_th": "การทดสอบการยอมรับของเว็บ",
+      "name_en": "WEB ACCEPTANCE TESTING",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016435",
+      "name_th": "องค์ประกอบสำคัญของวิทยาการข้อมูล",
+      "name_en": "ELEMENTS OF DATA SCIENCE",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016436",
+      "name_th": "การแสดงข้อมูลด้วยแผนภาพ",
+      "name_en": "DATA VISUALIZATION",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016437",
+      "name_th": "โครงสร้างพื้นฐานที่น่าเชื่อถือและขยายตัวได้",
+      "name_en": "RELIABLE AND SCALABLE INFRASTRUCTURE",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016438",
+      "name_th": "ความปลอดภัยสำหรับระบบคลาวด์",
+      "name_en": "CLOUD SECURITY",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016439",
+      "name_th": "เทคโนโลยีเครือข่ายไร้สาย",
+      "name_en": "WIRELESS NETWORK TECHNOLOGY",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016440",
+      "name_th": "การออกแบบเครือข่ายสารสนเทศ",
+      "name_en": "INFORMATION NETWORK DESIGN",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016441",
+      "name_th": "ประสิทธิภาพเครือข่ายและระบบ",
+      "name_en": "NETWORK AND SYSTEM PERFORMANCE",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016442",
+      "name_th": "การออกแบบฮาร์ดแวร์สำหรับอินเทอร์เน็ตแห่งสรรพสิ่ง",
+      "name_en": "INTERNET OF THINGS HARDWARE DESIGN",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016443",
+      "name_th": "การวิเคราะห์ข้อมูลและแอปพลิเคชันสำหรับอินเทอร์เน็ตแห่งสรรพสิ่ง",
+      "name_en": "INTERNET OF THINGS DATA ANALYTICS AND APPLICATIONS",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016444",
+      "name_th": "การออกแบบเว็บ",
+      "name_en": "WEB DESIGN",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [
+        {
+          "code": "06066302",
+          "name_th": "การเขียนโปรแกรมเว็บพื้นฐาน",
+          "name_en": "FUNDAMENTAL WEB PROGRAMMING User-centered web design process"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06016445",
+      "name_th": "การเขียนสคริปต์ขั้นสูงสำหรับการออกแบบ",
+      "name_en": "ADVANCED SCRIPTING FOR DESIGN",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016446",
+      "name_th": "การออกแบบเกม",
+      "name_en": "GAME DESIGN",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016447",
+      "name_th": "การพัฒนาเกมขั้นต้นด้วยเกมเอนจิ้น",
+      "name_en": "FUNDAMENTAL GAME DEVELOPMENT WITH GAME ENGINE",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016448",
+      "name_th": "การพัฒนาเกมขั้นสูงด้วยเกมเอนจิ้น",
+      "name_en": "ADVANCED GAME DEVELOPMENT WITH GAME ENGINE",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [
+        {
+          "code": "06016447",
+          "name_th": "การพัฒนาเกมขั้นต้นด้วยเกมเอนจิ้น",
+          "name_en": "FUNDAMENTAL GAME DEVELOPMENT WITH GAME ENGINE"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06016449",
+      "name_th": "เกมมิฟิเคชัน",
+      "name_en": "GAMIFICATION",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016450",
+      "name_th": "การพัฒนาเกมด้วยเทคโนโลยีเสมือนจริง",
+      "name_en": "GAME DEVELOPMENT WITH REALITY TECHNOLOGY",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [
+        {
+          "code": "06016447",
+          "name_th": "การพัฒนาเกมขั้นต้นด้วยเกมเอนจิ้น",
+          "name_en": "FUNDAMENTAL GAME DEVELOPMENT WITH GAME ENGINE"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06016451",
+      "name_th": "การบริหารทรัพยากรองค์กร",
+      "name_en": "ENTERPRISE RESOURCE PLANNING",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016452",
+      "name_th": "การจัดการห่วงโซ่อุปทานและโลจิสติกส์",
+      "name_en": "SUPPLY CHAIN MANAGEMENT AND LOGISTICS",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016453",
+      "name_th": "การบริหารระบบลูกค้าสัมพันธ์",
+      "name_en": "CUSTOMER RELATIONSHIP MANAGEMENT",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016454",
+      "name_th": "เครื่องมือยูเอ็กซ์และการพัฒนาซอฟต์แวร์สำหรับธุรกิจดิจิทัล",
+      "name_en": "UX TOOLS AND SOFTWARE DEVELOPMENT FOR DIGITAL BUSINESS",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016455",
+      "name_th": "การวิเคราะห์พฤติกรรมลูกค้า",
+      "name_en": "CUSTOMER BEHAVIOR ANALYSIS",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016456",
+      "name_th": "แบบจำลองธุรกิจ",
+      "name_en": "BUSINESS MODEL",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [
+        {
+          "code": "06066101",
+          "name_th": "พื้นฐานทางธุรกิจสําหรับเทคโนโลยี",
+          "name_en": "BUSINESS FUNDAMENTALS FOR INFORMATION TECHNOLOGY"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06016457",
+      "name_th": "ระบบฐานข้อมูลขั้นสูง",
+      "name_en": "ADVANCED DATABASE SYSTEMS",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [
+        {
+          "code": "06066300",
+          "name_th": "แนวคิดระบบฐานข้อมูล",
+          "name_en": "DATABASE SYSTEM CONCEPTS Transaction management"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06016458",
+      "name_th": "การดูแลและบำรุงรักษาระบบฐานข้อมูล",
+      "name_en": "DATABASE SYSTEM MAINTENANCE AND ADMINISTRATION",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [
+        {
+          "code": "06066300",
+          "name_th": "แนวคิดระบบฐานข้อมูล",
+          "name_en": "DATABASE SYSTEM CONCEPTS Creating views"
+        }
+      ],
+      "has_prerequisite": true
+    },
+    {
+      "code": "06016459",
+      "name_th": "การรับรองมาตรฐานและคุณภาพซอฟต์แวร์",
+      "name_en": "SOFTWARE STANDARD AND QUALITY ASSURANCE",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016460",
+      "name_th": "ปัญญาประดิษฐ์",
+      "name_en": "ARTIFICIAL INTELLIGENCE",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016461",
+      "name_th": "การประมวลผลภาษาธรรมชาติเบื้องต้น",
+      "name_en": "INTRODUCTION TO NATURAL LANGUAGE PROCESSING",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016462",
+      "name_th": "เทคโนโลยีสื่อสารเคลื่อนที่",
+      "name_en": "MOBILE COMMUNICATION TECHNOLOGY",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016463",
+      "name_th": "เทคโนโลยีการคำนวณด้วยคอมพิวเตอร์แบบผสมผสาน",
+      "name_en": "HYBRID COMPUTING TECHNOLOGY",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016464",
+      "name_th": "ความมั่นคงปลอดภัยไซเบอร์ทางปฏิบัติ",
+      "name_en": "PRACTICAL CYBER SECURITY",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016465",
+      "name_th": "การออกแบบศูนย์ข้อมูล",
+      "name_en": "DATA CENTER DESIGN",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016466",
+      "name_th": "การแก้ไขปัญหาระบบและเครือข่าย",
+      "name_en": "NETWORK AND SYSTEM TROUBLE SHOOTING",
+      "credits": "3(0-6-3)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016467",
+      "name_th": "การแปลงข้อมูลและการรู้จำรูปภาพ",
+      "name_en": "IMAGE TRANSFORMATION AND RECOGNITION",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016468",
+      "name_th": "การเรียนรู้เชิงลึกสำหรับการวิเคราะห์ภาพและวีดิโอทางการแพทย์",
+      "name_en": "DEEP LEARNING IN MEDICAL IMAGE AND VIDEO ANALYSIS",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016469",
+      "name_th": "การวิเคราะห์ข้อมูลสุขภาพเบื้องต้น",
+      "name_en": "INTRODUCTION TO HEALTHCARE DATA ANALYTICS",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016470",
+      "name_th": "การได้มาและการจัดการข้อมูลทางด้านคลินิก",
+      "name_en": "CLINICAL DATA ACQUISITION AND MANAGEMENT",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016471",
+      "name_th": "การวิเคราะห์ข้อมูลขนาดใหญ่",
+      "name_en": "BIG DATA ANALYSIS",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016472",
+      "name_th": "กระบวนการอัตโนมัติด้วยโรบอต",
+      "name_en": "ROBOTIC PROCESS AUTOMATION",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016473",
+      "name_th": "หัวข้อพิเศษทางด้านเทคโนโลยีสารสนเทศ 1",
+      "name_en": "SPECIAL TOPICS IN INFORMATION TECHNOLOGY 1",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016474",
+      "name_th": "หัวข้อพิเศษทางด้านเทคโนโลยีสารสนเทศ 2",
+      "name_en": "SPECIAL TOPICS IN INFORMATION TECHNOLOGY 2",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016475",
+      "name_th": "หัวข้อพิเศษทางด้านเทคโนโลยีสารสนเทศ 3",
+      "name_en": "SPECIAL TOPICS IN INFORMATION TECHNOLOGY 3",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016476",
+      "name_th": "หัวข้อพิเศษทางด้านเทคโนโลยีสารสนเทศ 4",
+      "name_en": "SPECIAL TOPICS IN INFORMATION TECHNOLOGY 4",
+      "credits": "3(3-0-6)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016477",
+      "name_th": "ปฎิบัติการพิเศษทางด้านเทคโนโลยีสารสนเทศ 1",
+      "name_en": "SPECIAL WORKSHOP IN INFORMATION TECHNOLOGY 1",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016478",
+      "name_th": "ปฎิบัติการพิเศษทางด้านเทคโนโลยีสารสนเทศ 2",
+      "name_en": "SPECIAL WORKSHOP IN INFORMATION TECHNOLOGY 2",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016479",
+      "name_th": "ปฎิบัติการพิเศษทางด้านเทคโนโลยีสารสนเทศ 3",
+      "name_en": "SPECIAL WORKSHOP IN INFORMATION TECHNOLOGY 3",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "06016480",
+      "name_th": "ปฎิบัติการพิเศษทางด้านเทคโนโลยีสารสนเทศ 4",
+      "name_en": "SPECIAL WORKSHOP IN INFORMATION TECHNOLOGY 4",
+      "credits": "3(2-2-5)",
+      "category": "หมวดวิชาเฉพาะ",
+      "type": "เลือก",
+      "year": null,
+      "semester": null,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "060164xx",
+      "name_th": "วิชาเลือกทางเทคโนโลยีสารสนเทศ 1",
+      "name_en": "ELECTIVE COURSE IN INFORMATION TECHNOLOGY 1",
+      "credits": "3(3-0-6) หรือ 3(2-2-5) หรือ 3(0-6-3)",
+      "category": "วิชาเฉพาะ",
+      "type": "เลือก",
+      "year": 3,
+      "semester": 2,
+      "prerequisites": [],
+      "has_prerequisite": false
+    },
+    {
+      "code": "xxxxxxxx",
+      "name_th": "วิชาเลือกเสรี 1",
+      "name_en": "FREE ELECTIVE COURSE 1",
+      "credits": "3(x-x-x)",
+      "category": "วิชาเลือกเสรี",
+      "type": "เลือก",
+      "year": 4,
+      "semester": 1,
+      "prerequisites": [],
+      "has_prerequisite": false
+    }
+  ],
+  "academic_plan": [
+    {
+      "year": 1,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "06016401",
+          "name_th": "คณิตศาสตร์สำหรับเทคโนโลยีสารสนเทศ",
+          "credits": "3(3-0-6)"
+        },
+        {
+          "code": "06016402",
+          "name_th": "พื้นฐานทางด้านเทคโนโลยีสารสนเทศ",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "06016411",
+          "name_th": "ระบบคอมพิวเตอร์เบื้องต้น",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "06066303",
+          "name_th": "การแก้ปัญหาและการโปรแกรมคอมพิวเตอร์",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "90641001",
+          "name_th": "โรงเรียนสร้างเสน่ห์",
+          "credits": "2(1-2-3)"
+        },
+        {
+          "code": "90641003",
+          "name_th": "กีฬาและนันทนาการ",
+          "credits": "1(0-3-2)"
+        },
+        {
+          "code": "90644007",
+          "name_th": "ภาษาอังกฤษพื้นฐาน 1",
+          "credits": "3(3-0-6)"
+        }
+      ],
+      "total_credits": 18
+    },
+    {
+      "year": 1,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "06016408",
+          "name_th": "การสร้างโปรแกรมเชิงวัตถุ",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "06066001",
+          "name_th": "ความน่าจะเป็นและสถิติ",
+          "credits": "3(3-0-6)"
+        },
+        {
+          "code": "06066101",
+          "name_th": "พื้นฐานทางธุรกิจสำหรับเทคโนโลยีสารสนเทศ",
+          "credits": "3(3-0-6)"
+        },
+        {
+          "code": "06066301",
+          "name_th": "โครงสร้างข้อมูลและอัลกอริทึม",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "90641002",
+          "name_th": "ความฉลาดทางดิจิทัล",
+          "credits": "3(3-0-6)"
+        },
+        {
+          "code": "90644008",
+          "name_th": "ภาษาอังกฤษพื้นฐาน 2",
+          "credits": "3(3-0-6)"
+        }
+      ],
+      "total_credits": 18
+    },
+    {
+      "year": 2,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "06016403",
+          "name_th": "เทคโนโลยีสื่อประสม",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "06016409",
+          "name_th": "การประมวลทางกายภาพ",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "06016413",
+          "name_th": "ระบบเครือข่ายเบื้องต้น",
+          "credits": "3(3-0-6)"
+        },
+        {
+          "code": "06066000",
+          "name_th": "คณิตศาสตร์ไม่ต่อเนื่อง",
+          "credits": "3(3-0-6)"
+        },
+        {
+          "code": "06066300",
+          "name_th": "แนวคิดระบบฐานข้อมูล",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "06066304",
+          "name_th": "การวิเคราะห์และออกแบบระบบสารสนเทศ",
+          "credits": "3(3-0-6)"
+        }
+      ],
+      "total_credits": 18
+    },
+    {
+      "year": 2,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "06016405",
+          "name_th": "พื้นฐานความมั่นคงปลอดภัยไซเบอร์",
+          "credits": "3(3-0-6)"
+        },
+        {
+          "code": "06016410",
+          "name_th": "วิศวกรรมซอฟต์แวร์",
+          "credits": "3(3-0-6)"
+        },
+        {
+          "code": "06016412",
+          "name_th": "โครงสร้างระบบคอมพิวเตอร์และระบบปฏิบัติการ",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "06066302",
+          "name_th": "การเขียนโปรแกรมเว็บพื้นฐาน",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "06016414",
+          "name_th": "ระบบฐานข้อมูลแบบโนเอสคิวแอล",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "06016415",
+          "name_th": "การเขียนโปรแกรมเชิงฟังก์ชัน",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "06016419",
+          "name_th": "โครงสร้างพื้นฐานเครือข่ายการสื่อสาร",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "06016420",
+          "name_th": "ระบบโครงสร้างพื้นฐานและการบริการ",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "06016424",
+          "name_th": "การออกแบบส่วนต่อประสานกับมนุษย์",
+          "credits": "3(3-0-6)"
+        },
+        {
+          "code": "06016425",
+          "name_th": "พื้นฐานการออกแบบทัศนศิลป์สำหรับสื่อปฏิสัมพันธ์",
+          "credits": "3(2-2-5)"
+        }
+      ],
+      "total_credits": 18
+    },
+    {
+      "year": 3,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "06016404",
+          "name_th": "เทคโนโลยีกลุ่มเมฆ",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "06066102",
+          "name_th": "ระบบสารสนเทศเพื่อการจัดการ",
+          "credits": "3(3-0-6)"
+        },
+        {
+          "code": "90644xxx",
+          "name_th": "วิชาเลือกหมวดภาษาและการสื่อสาร",
+          "credits": "3(3-0-6)"
+        },
+        {
+          "code": "06016416",
+          "name_th": "วิศวกรรมความต้องการ",
+          "credits": "3(3-0-6)"
+        },
+        {
+          "code": "06016417",
+          "name_th": "เครื่องมือและสภาพแวดล้อมสำหรับการพัฒนาซอฟต์แวร์",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "06016418",
+          "name_th": "การพัฒนาเว็บฝั่งเซิร์ฟเวอร์",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "06016421",
+          "name_th": "ความมั่นคงปลอดภัยโครงสร้างพื้นฐานทางเทคโนโลยีสารสนเทศ",
+          "credits": "3(3-0-6)"
+        },
+        {
+          "code": "06016422",
+          "name_th": "อินเทอร์เน็ตของสรรพสิ่ง",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "06016423",
+          "name_th": "การออโตเมชั่นและโครงสร้างพื้นฐานที่สามารถโปรแกรมได้",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "06016426",
+          "name_th": "คอมพิวเตอร์กราฟิกส์และแอนิเมชัน",
+          "credits": "3(2-2-5)"
+        },
+        {
+          "code": "06016427",
+          "name_th": "การออกแบบและพัฒนาเกมเบื้องต้น",
+          "credits": "3(2-2-5)"
+        }
+      ],
+      "total_credits": 18
+    },
+    {
+      "year": 3,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "060164xx",
+          "name_th": "วิชาเลือกทางเทคโนโลยีสารสนเทศ 1",
+          "credits": "3(3-0-6) หรือ 3(2-2-5) หรือ 3(0-6-3)"
+        },
+        {
+          "code": "060164xx",
+          "name_th": "วิชาเลือกทางเทคโนโลยีสารสนเทศ 2",
+          "credits": "3(3-0-6) หรือ 3(2-2-5) หรือ 3(0-6-3)"
+        },
+        {
+          "code": "06066100",
+          "name_th": "การบริหารโครงการเทคโนโลยีสารสนเทศ",
+          "credits": "3(3-0-6)"
+        },
+        {
+          "code": "90642033",
+          "name_th": "กฎหมายสำหรับคนรุ่นใหม่",
+          "credits": "3(3-0-6)"
+        },
+        {
+          "code": "90644042",
+          "name_th": "การสื่อสารและการนำเสนออย่างมืออาชีพ",
+          "credits": "3(3-0-6)"
+        }
+      ],
+      "total_credits": 15
+    },
+    {
+      "year": 4,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "06016406",
+          "name_th": "โครงงาน 1",
+          "credits": "3(0-9-0)"
+        },
+        {
+          "code": "060164xx",
+          "name_th": "วิชาเลือกทางเทคโนโลยีสารสนเทศ 3",
+          "credits": "3(3-0-6) หรือ 3(2-2-5) หรือ 3(0-6-3)"
+        },
+        {
+          "code": "90643021",
+          "name_th": "ผู้ประกอบการสมัยใหม่",
+          "credits": "3(3-0-6)"
+        },
+        {
+          "code": "9064xxxx",
+          "name_th": "วิชาเลือกหมวดศึกษาทั่วไป 1",
+          "credits": "3(3-0-6)"
+        },
+        {
+          "code": "xxxxxxxx",
+          "name_th": "วิชาเลือกเสรี 1",
+          "credits": "3(x-x-x)"
+        }
+      ],
+      "total_credits": 15
+    },
+    {
+      "year": 4,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "06016407",
+          "name_th": "โครงงาน 2",
+          "credits": "3(0-9-0)"
+        },
+        {
+          "code": "9064xxxx",
+          "name_th": "วิชาเลือกหมวดศึกษาทั่วไป 2",
+          "credits": "3(3-0-6)"
+        },
+        {
+          "code": "xxxxxxxx",
+          "name_th": "วิชาเลือกเสรี 2",
+          "credits": "3(x-x-x)"
+        }
+      ],
+      "total_credits": 9
+    }
+  ],
+  "career_opportunities": [],
+  "program_outcomes": [],
+  "special_tracks": [
+    {
+      "name_th": "แผนการศึกษาที่ไม่เข้าโครงการสหกิจศึกษา",
+      "name_en": "Non-Cooperative Education Plan",
+      "description": "แผนการศึกษาปกติที่ไม่มีสหกิจศึกษา"
+    },
+    {
+      "name_th": "แผนการศึกษาสำหรับโครงการสหกิจศึกษา",
+      "name_en": "Cooperative Education Plan",
+      "description": "แผนการศึกษาที่มีสหกิจศึกษาในปีที่ 3 ภาคการศึกษาที่ 2"
+    }
+  ],
+  "program": "IT"
+}

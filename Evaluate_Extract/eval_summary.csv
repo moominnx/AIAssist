@@ -1,0 +1,13 @@
+﻿program,model,total_extracted,exact_match_pct,code_match_name_mismatch_pct,name_match_code_mismatch_pct,not_found_deprecated_pct,not_found_unknown_pct,exact_match_n,not_found_unknown_n
+AIT,deepseek,50,72.0,0.0,4.0,0.0,24.0,36,12
+AIT,gemini,50,72.0,0.0,4.0,0.0,24.0,36,12
+AIT,qwen,50,72.0,0.0,4.0,0.0,24.0,36,12
+BIT,deepseek,57,70.2,0.0,12.3,0.0,17.5,40,10
+BIT,gemini,57,70.2,0.0,12.3,0.0,17.5,40,10
+BIT,qwen,57,70.2,0.0,12.3,0.0,17.5,40,10
+DSBA,deepseek,80,61.2,0.0,5.0,0.0,33.8,49,27
+DSBA,gemini,79,62.0,0.0,6.3,0.0,31.6,49,25
+DSBA,qwen,79,62.0,0.0,6.3,0.0,31.6,49,25
+IT,deepseek,100,65.0,0.0,7.0,0.0,28.0,65,28
+IT,gemini,100,65.0,0.0,7.0,0.0,28.0,65,28
+IT,qwen,100,65.0,0.0,7.0,0.0,28.0,65,28
