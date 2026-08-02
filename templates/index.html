@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<title>UniAssist Text-to-SQL — หน้าทดสอบ</title>
+<style>
+  body {
+    font-family: "Segoe UI", Tahoma, sans-serif;
+    max-width: 900px;
+    margin: 24px auto;
+    padding: 0 16px;
+    color: #222;
+    background: #fafafa;
+  }
+  h1 { font-size: 20px; margin-bottom: 4px; }
+  .sub { color: #666; margin-bottom: 20px; font-size: 13px; }
+  textarea {
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    resize: vertical;
+  }
+  .row { display: flex; gap: 8px; margin-top: 8px; align-items: center; }
+  button {
+    padding: 8px 18px;
+    font-size: 14px;
+    border: none;
+    border-radius: 6px;
+    background: #2563eb;
+    color: white;
+    cursor: pointer;
+  }
+  button:hover { background: #1d4ed8; }
+  button:disabled { background: #999; cursor: default; }
+  .examples { margin-top: 10px; }
+  .examples button {
+    background: #eef2ff;
+    color: #333;
+    border: 1px solid #c7d2fe;
+    font-size: 12px;
+    padding: 5px 10px;
+    margin: 3px 4px 0 0;
+  }
+  .examples button:hover { background: #dbeafe; }
+  .status { margin-top: 10px; color: #666; font-style: italic; }
+  .section {
+    margin-top: 20px;
+    padding: 14px 16px;
+    background: white;
+    border: 1px solid #e2e2e2;
+    border-radius: 8px;
+  }
+  .section h2 {
+    font-size: 14px;
+    margin: 0 0 8px 0;
+    color: #555;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+  }
+  #answer-box {
+    font-size: 17px;
+    line-height: 1.5;
+  }
+  pre {
+    background: #1e1e2e;
+    color: #d4d4e0;
+    padding: 12px;
+    border-radius: 6px;
+    overflow-x: auto;
+    font-size: 13px;
+    margin: 0;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 13px;
+    margin-top: 4px;
+  }
+  th, td {
+    border: 1px solid #ccc;
+    padding: 6px 10px;
+    text-align: left;
+  }
+  th { background: #f0f0f0; }
+  tr:nth-child(even) { background: #fafafa; }
+  .error-box {
+    background: #fef2f2;
+    border: 1px solid #fca5a5;
+    color: #991b1b;
+    padding: 12px 16px;
+    border-radius: 8px;
+    margin-top: 20px;
+  }
+  .hidden { display: none; }
+</style>
+</head>
+<body>
+
+<h1>UniAssist Text-to-SQL — หน้าทดสอบ</h1>
+<div class="sub">พิมพ์คำถามภาษาไทย แล้วดูคำตอบ + SQL ที่โมเดลเขียน + ผลลัพธ์ดิบจากฐานข้อมูล</div>
+
+<textarea id="question" rows="3" placeholder="เช่น หลักสูตร IT จบกี่หน่วยกิต"></textarea>
+<div class="row">
+  <button id="ask-btn">ถาม</button>
+</div>
+
+<div class="examples">
+  <button type="button" class="ex">หลักสูตร IT จบกี่หน่วยกิต</button>
+  <button type="button" class="ex">AIT ไปสหกิจปีไหน</button>
+  <button type="button" class="ex">IT สายเกม ปี 3 เทอม 1 เรียนอะไรบ้าง</button>
+  <button type="button" class="ex">หมวดวิชาศึกษาทั่วไปของ BIT กี่หน่วยกิต</button>
+</div>
+
+<div id="status" class="status hidden">กำลังคิด...</div>
+
+<div id="error-section" class="error-box hidden">
+  <strong>เกิดข้อผิดพลาด:</strong>
+  <div id="error-text"></div>
+  <div id="error-sql-wrap" class="hidden" style="margin-top:8px;">
+    <div style="font-size:12px;color:#7f1d1d;margin-bottom:4px;">SQL ที่ใช้:</div>
+    <pre id="error-sql"></pre>
+  </div>
+</div>
+
+<div id="result" class="hidden">
+  <div class="section">
+    <h2>คำตอบ</h2>
+    <div id="answer-box"></div>
+  </div>
+  <div class="section">
+    <h2>SQL ที่โมเดลเขียน</h2>
+    <pre id="sql-box"></pre>
+  </div>
+  <div class="section">
+    <h2>ผลลัพธ์ดิบ</h2>
+    <div id="table-box"></div>
+  </div>
+</div>
+
+<script>
+const questionEl = document.getElementById('question');
+const askBtn = document.getElementById('ask-btn');
+const statusEl = document.getElementById('status');
+const resultEl = document.getElementById('result');
+const errorSection = document.getElementById('error-section');
+const errorText = document.getElementById('error-text');
+const errorSqlWrap = document.getElementById('error-sql-wrap');
+const errorSql = document.getElementById('error-sql');
+const answerBox = document.getElementById('answer-box');
+const sqlBox = document.getElementById('sql-box');
+const tableBox = document.getElementById('table-box');
+
+function escapeHtml(s) {
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+}
+
+function renderTable(columns, rows) {
+  if (!columns || columns.length === 0) {
+    return '<em>(ไม่มีผลลัพธ์)</em>';
+  }
+  let html = '<table><thead><tr>';
+  for (const c of columns) html += `<th>${escapeHtml(c)}</th>`;
+  html += '</tr></thead><tbody>';
+  for (const row of rows) {
+    html += '<tr>';
+    for (const c of columns) {
+      const v = row[c];
+      html += `<td>${v === null || v === undefined ? '' : escapeHtml(v)}</td>`;
+    }
+    html += '</tr>';
+  }
+  html += '</tbody></table>';
+  if (rows.length === 0) {
+    html += '<div style="margin-top:6px;color:#777;">(ไม่มีแถวผลลัพธ์)</div>';
+  }
+  return html;
+}
+
+async function ask() {
+  const question = questionEl.value.trim();
+  if (!question) return;
+
+  askBtn.disabled = true;
+  statusEl.classList.remove('hidden');
+  resultEl.classList.add('hidden');
+  errorSection.classList.add('hidden');
+
+  try {
+    const resp = await fetch('/ask', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ question }),
+    });
+    const data = await resp.json();
+
+    if (data.error) {
+      errorText.textContent = data.error;
+      if (data.sql) {
+        errorSqlWrap.classList.remove('hidden');
+        errorSql.textContent = data.sql;
+      } else {
+        errorSqlWrap.classList.add('hidden');
+      }
+      errorSection.classList.remove('hidden');
+      return;
+    }
+
+    answerBox.textContent = data.answer || '(ไม่มีคำตอบ)';
+    sqlBox.textContent = data.sql || '';
+    tableBox.innerHTML = renderTable(data.columns, data.rows);
+    resultEl.classList.remove('hidden');
+  } catch (e) {
+    errorText.textContent = 'เชื่อมต่อกับ server ไม่ได้: ' + e;
+    errorSqlWrap.classList.add('hidden');
+    errorSection.classList.remove('hidden');
+  } finally {
+    askBtn.disabled = false;
+    statusEl.classList.add('hidden');
+  }
+}
+
+askBtn.addEventListener('click', ask);
+questionEl.addEventListener('keydown', (e) => {
+  if (e.key === 'Enter' && !e.shiftKey) {
+    e.preventDefault();
+    ask();
+  }
+});
+document.querySelectorAll('.ex').forEach(btn => {
+  btn.addEventListener('click', () => {
+    questionEl.value = btn.textContent;
+    questionEl.focus();
+  });
+});
+</script>
+
+</body>
+</html>
