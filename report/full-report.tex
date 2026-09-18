@@ -1,0 +1,137 @@
+\documentclass{itkmitlproject}
+
+\usepackage{afterpage}
+\usepackage{graphicx,amsmath,latexsym,amssymb,amsthm}
+\usepackage{indentfirst}
+\usepackage{hyperref}
+\usepackage{hyphenat}
+\usepackage[numbers,square]{natbib}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{longtable}
+
+% \useEnglish
+\useThai
+
+\graphicspath{ {images/} }
+
+%1. Your thesis title (THAI)
+\newcommand{\ThesisTitle}{ระบบผู้ช่วยอัจฉริยะเพื่อการเรียนรู้และการติดตามนักศึกษาในระดับมหาวิทยาลัย}
+%2. Your thesis title (ENG)
+\newcommand{\ThesisTitleENG}{UniAssist AI: Intelligent Student Support and Advisor Monitoring System}
+%3. Author name
+\newcommand{\Author}{นางสาวนันท์ณภัส มะโนมั่น}
+%4. Author name ENG
+\newcommand{\AuthorENG}{Nannapas Manoman}
+%5. Author student ID
+\newcommand{\SId}{66070104}
+%6. Author 2 name
+\newcommand{\AuthorTwo}{นางสาวภาดาวัน โชติหิรัญคงวุฒิ}
+%7. Author 2 name ENG
+\newcommand{\AuthorTwoENG}{Padawan Chodhirunkongwut}
+%8. Author 2 student ID
+\newcommand{\SIdTwo}{66070154}
+%9. Advisor name
+\newcommand{\Advisor}{ดร.ภัทรภร วัฒนาชีพ}
+%10. Advisor name ENG
+\newcommand{\AdvisorENG}{Dr.Pattaraporn Wattanacheep}
+%11. ภาคเรียนที่
+\newcommand{\Sem}{2}
+%12. ปีการศึกษา พ.ศ.
+\newcommand{\AcaY}{2568}
+%13. ปีการศึกษา ค.ศ.
+\newcommand{\AcaYAD}{2025}
+%14. วันส่งรายงาน
+\newcommand{\SubD}{}
+%15. Copyright year (AD)
+\newcommand{\CopyrightYAD}{2025}
+
+\begin{document}
+    \frontmatter
+    \lhead{}\rhead{}\chead{}\lfoot{}\cfoot{\thepage}\rfoot{}
+    \makecover
+    \makeinnercover
+    \makeengcover
+    \makecopyrightcover
+    \makethesiscert
+    \makeprojectcert
+
+    % Setting margin for page numbering on frontmatter
+    \newgeometry{top=1in, bottom=1in, left=1.5in, right=1in, includefoot}
+    \setcounter{page}{1}
+    \pagenumbering{Roman}
+
+    \makeabstract{
+        ปัจจุบันระบบการศึกษาในระดับมหาวิทยาลัยมีความซับซ้อน ทั้งโครงสร้างหลักสูตรและระเบียบข้อบังคับที่กระจายอยู่หลายแหล่ง ส่งผลให้นักศึกษาเข้าถึงข้อมูลได้ยากและเกิดความผิดพลาดในการวางแผนการเรียน โครงงานนี้จึงมุ่งพัฒนา \textbf{UniAssist AI} ซึ่งเป็นเว็บแอปพลิเคชันผู้ช่วยด้านวิชาการสำหรับนักศึกษาและอาจารย์ที่ปรึกษา คณะเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง โดยให้บริการตอบคำถามข้อมูลหลักสูตรได้อย่างถูกต้องและรวดเร็ว
+
+        การพัฒนาเริ่มจากการรวบรวมข้อมูลจากเอกสารหลักสูตร (มคอ.2) และตารางสอนของสำนักทะเบียน จากนั้นใช้โมเดลภาษาขนาดใหญ่ (LLM) สกัดข้อมูลที่มีโครงสร้างซับซ้อนให้อยู่ในรูปแบบข้อมูลเชิงสัมพันธ์ (Relational Database) และประเมินคุณภาพการสกัดเทียบกับเอกสาร มคอ.2 จริงบนโมเดล ๔ ตัว พบว่าโมเดล Qwen มีความสมดุลระหว่างความครบถ้วน (Coverage) และความถูกต้อง (Accuracy) สูงที่สุด จึงถูกเลือกเป็นโมเดลหลักของระบบ แกนหลักของระบบใช้เทคนิค \textbf{Text-to-SQL} คือให้ LLM แปลงคำถามภาษาไทยเป็นคำสั่ง SQL แล้วประมวลผลบนฐานข้อมูลแบบอ่านอย่างเดียว (read-only) พร้อมกลไกตรวจสอบความปลอดภัยของคำสั่งก่อนรัน และเรียบเรียงผลลัพธ์กลับเป็นภาษาที่เข้าใจง่าย นอกจากนี้ยังพัฒนาระบบคำนวณเกรดและประเมินความเสี่ยงทางการเรียนแบบอัตโนมัติ ระบบข้อมูลทุนการศึกษา และแดชบอร์ดสำหรับอาจารย์ที่ปรึกษา โดยมีการยืนยันตัวตนผ่าน Google OAuth และแบ่งสิทธิ์การใช้งานตามบทบาท
+
+        ผลลัพธ์จากโครงงานนี้คือเว็บแอปพลิเคชันที่ช่วยให้นักศึกษาเข้าถึงข้อมูลและวางแผนการเรียนได้อย่างมีประสิทธิภาพ ลดความเสี่ยงในการพ้นสภาพนักศึกษา และช่วยให้อาจารย์ที่ปรึกษาติดตามสถานะของนักศึกษาในความดูแลได้อย่างทั่วถึง ซึ่งสอดคล้องกับเป้าหมายการพัฒนาที่ยั่งยืน (SDG 4) ในการส่งเสริมโอกาสการเรียนรู้และคุณภาพการศึกษา
+
+        \vskip0.5cm
+        \noindent\textbf{คำสำคัญ:} โมเดลภาษาขนาดใหญ่, Text-to-SQL, ผู้ช่วยด้านวิชาการ, การสกัดข้อมูลหลักสูตร, การประเมินความเสี่ยงทางการเรียน
+    }
+
+    \makeabstracteng{
+        Higher-education systems are complex: curriculum structures and academic regulations are scattered across many sources, making it hard for students to access information and leading to mistakes in study planning. This project develops \textbf{UniAssist AI}, a web application that acts as an academic assistant for students and academic advisors at the School of Information Technology, King Mongkut's Institute of Technology Ladkrabang, providing accurate and fast answers to curriculum-related questions.
+
+        Development began by collecting data from curriculum documents (TQF2 / \emph{มคอ.2}) and the registrar's teaching timetable. A Large Language Model (LLM) was then used to extract this highly structured information into a relational database. The extraction quality was evaluated against the official curriculum documents across four models; the Qwen model achieved the best balance between coverage and accuracy and was therefore selected as the system's primary model. The core of the system uses a \textbf{Text-to-SQL} technique: the LLM translates Thai natural-language questions into SQL statements that are executed on a read-only database, with a safety-checking mechanism applied before execution, and the results are then paraphrased back into easy-to-understand language. In addition, the system provides automatic GPA calculation with academic-risk assessment, a scholarship information module, and a dashboard for academic advisors, with authentication via Google OAuth and role-based access control.
+
+        The result is a web application that helps students access information and plan their studies effectively, reduces the risk of academic dismissal, and enables academic advisors to monitor the students under their supervision comprehensively, in line with Sustainable Development Goal 4 (Quality Education).
+
+        \vskip0.5cm
+        \noindent\textbf{Keywords:} Large Language Model, Text-to-SQL, Academic Assistant, Curriculum Data Extraction, Academic Risk Assessment
+    }
+
+    \makeack
+
+    \newpage
+    \addcontentsline{toc}{chapter}{\contentsname}
+    \tableofcontents
+
+    \newpage
+    \addcontentsline{toc}{chapter}{\listtablename}
+    \listoftables
+
+    \newpage
+    \addcontentsline{toc}{chapter}{\listfigurename}
+    \listoffigures
+
+    % Reset frontmatter page numbering margin, back to original margin from class file
+    \restoregeometry
+
+    \mainmatter
+    \lhead{}\rhead{\thepage}\chead{}\lfoot{}\cfoot{}\rfoot{}
+
+    \include{chapter1}
+    \include{chapter2}
+    \include{chapter3}
+    \include{chapter4}
+    \include{chapter5}
+
+    \clearpage
+
+    \def\inbib{1}
+    \addcontentsline{toc}{chapter}{\bibname}
+    \bibliographystyle{IEEEtran-kmitl}
+    \makeatletter
+    \EveryShipout{
+        \ifdim\pagetotal>\pagegoal
+            \if\inbib1
+                \aftergroup\@cont@heading
+            \else
+            \fi
+        \fi
+    }
+    \makeatother
+
+    \bibliography{reference}
+    \def\inbib{0}
+
+    \startappendix
+    \include{appendix}
+
+    \makeauthorbio
+
+\end{document}

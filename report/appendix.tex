@@ -1,0 +1,42 @@
+\chapter{ตัวอย่างการทำงานของระบบ Text-to-SQL}
+
+ภาคผนวกนี้แสดงตัวอย่างคำถามภาษาไทยของผู้ใช้ คู่กับคำสั่ง SQL ที่โมเดลภาษาสร้างขึ้นและนำไปประมวลผลบนฐานข้อมูล เพื่อให้เห็นภาพการทำงานจริงของแกน Text-to-SQL
+
+\vskip0.5cm
+\noindent\textbf{ตัวอย่างที่ 1} คำถาม: ``หลักสูตร IT ต้องเรียนกี่หน่วยกิตถึงจะจบ''
+
+\begin{verbatim}
+SELECT program_code, total_credits
+FROM programs
+WHERE program_code = 'IT';
+\end{verbatim}
+
+\noindent\textbf{ตัวอย่างที่ 2} คำถาม: ``วิชาบังคับก่อนของวิชารหัส 06016418 มีอะไรบ้าง''
+
+\begin{verbatim}
+SELECT cp.prerequisite_code
+FROM course_prerequisites cp
+JOIN courses c ON c.course_id = cp.course_id
+WHERE c.code = '06016418';
+\end{verbatim}
+
+\noindent\textbf{ตัวอย่างที่ 3} คำถาม: ``แผนการเรียนปกติของ IT ปี 1 เทอม 1 มีวิชาอะไรบ้าง''
+
+\begin{verbatim}
+SELECT apc.code, apc.name_th, apc.credits_total
+FROM academic_plan_courses apc
+JOIN programs p ON p.program_id = apc.program_id
+WHERE p.program_code = 'IT'
+  AND apc.plan_type = 'no_coop'
+  AND apc.year = 1
+  AND apc.semester = 1;
+\end{verbatim}
+
+\noindent\textbf{ตัวอย่างที่ 4} คำถาม: ``เกณฑ์การพ้นสภาพ (รีไทร์) เป็นอย่างไร''
+
+\begin{verbatim}
+SELECT category, text
+FROM rules
+WHERE category = 'dismissal_criteria'
+  AND text LIKE '%เฉลี่ยสะสม%';
+\end{verbatim}
